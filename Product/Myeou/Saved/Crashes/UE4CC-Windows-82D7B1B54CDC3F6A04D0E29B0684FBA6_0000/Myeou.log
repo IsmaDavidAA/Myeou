@@ -1,0 +1,1242 @@
+﻿Log file open, 08/18/20 19:09:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Myeou
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.150381
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="C:/Users/david/Desktop/Myeou/Product/Myeou/Myeou.uproject" -Output="C:/Users/david/Desktop/Myeou/Product/Myeou/Intermediate/TargetInfo.json"]
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.08.18-23.09.07:726][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.08.18-23.09.07:727][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.08.18-23.09.07:728][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.08.18-23.09.07:729][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.08.18-23.09.07:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.18-23.09.07:730][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.18-23.09.07:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.08.18-23.09.07:731][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.08.18-23.09.07:736][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.18-23.09.07:736][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.18-23.09.07:737][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.18-23.09.07:738][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.18-23.09.07:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.18-23.09.07:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.18-23.09.07:740][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.18-23.09.07:740][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.18-23.09.07:745][  0]LogHAL: Display: Platform has ~ 8 GB [8500953088 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.18-23.09.07:745][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.18-23.09.07:745][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.18-23.09.07:745][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.18-23.09.07:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.18-23.09.07:747][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.18-23.09.07:748][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.18-23.09.07:749][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.08.18-23.09.07:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.18-23.09.07:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.18-23.09.07:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.18-23.09.07:749][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.18-23.09.07:749][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.18-23.09.07:749][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.18-23.09.07:749][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.08.18-23.09.07:749][  0]LogInit: Computer: IMPICKLERICK
+[2020.08.18-23.09.07:749][  0]LogInit: User: david
+[2020.08.18-23.09.07:749][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.18-23.09.07:749][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.18-23.09.07:750][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.08.18-23.09.07:750][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.18-23.09.07:750][  0]LogMemory: Process Physical Memory: 109.22 MB used, 109.22 MB peak
+[2020.08.18-23.09.07:750][  0]LogMemory: Process Virtual Memory: 99.85 MB used, 99.86 MB peak
+[2020.08.18-23.09.07:750][  0]LogMemory: Physical Memory: 5485.36 MB used,  2621.79 MB free, 8107.14 MB total
+[2020.08.18-23.09.07:750][  0]LogMemory: Virtual Memory: 5082.84 MB used,  134212648.00 MB free, 134217728.00 MB total
+[2020.08.18-23.09.07:799][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.18-23.09.07:828][  0]LogInit: Using OS detected language (en-US).
+[2020.08.18-23.09.07:828][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.18-23.09.07:831][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.18-23.09.08:049][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.18-23.09.08:083][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.18-23.09.08:083][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.18-23.09.08:421][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.18-23.09.08:421][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.18-23.09.08:421][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.18-23.09.08:421][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.18-23.09.08:432][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2020.08.18-23.09.08:432][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.18-23.09.08:436][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.18-23.09.08:436][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.18-23.09.08:436][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.18-23.09.08:444][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.18-23.09.08:444][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.18-23.09.08:444][  0]LogWindows: EnumDisplayDevices:
+[2020.08.18-23.09.08:445][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2020.08.18-23.09.08:446][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2020.08.18-23.09.08:447][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2020.08.18-23.09.08:447][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.08.18-23.09.08:447][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2020.08.18-23.09.08:447][  0]LogD3D11RHI:   Driver Version: 20.19.15.5070 (internal:20.19.15.5070, unified:20.19.15.5070)
+[2020.08.18-23.09.08:447][  0]LogD3D11RHI:      Driver Date: 12-27-2018
+[2020.08.18-23.09.08:447][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2020.08.18-23.09.08:455][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.08.18-23.09.08:456][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.18-23.09.08:464][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2020.08.18-23.09.09:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.18-23.09.09:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.18-23.09.09:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.18-23.09.09:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.18-23.09.09:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.18-23.09.09:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.18-23.09.09:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.18-23.09.09:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.18-23.09.09:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.18-23.09.09:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.18-23.09.09:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.18-23.09.09:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.18-23.09.09:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.18-23.09.09:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.18-23.09.09:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.18-23.09.09:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.18-23.09.09:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.18-23.09.09:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.18-23.09.09:311][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.18-23.09.09:317][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.18-23.09.09:362][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Intermediate/Shaders/WorkingDirectory/8768/).
+[2020.08.18-23.09.09:363][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/david/AppData/Local/Temp/UnrealShaderWorkingDir/C8B58C6746BC1A517B30E1B67C599022/'.
+[2020.08.18-23.09.09:364][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.18-23.09.09:364][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.18-23.09.09:364][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.18-23.09.10:452][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.18-23.09.10:528][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/david/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.18-23.09.10:528][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/david/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.18-23.09.10:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/david/Desktop/Myeou/Product/Myeou/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.18-23.09.10:528][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.18-23.09.10:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/david/Desktop/Myeou/Product/Myeou/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.18-23.09.10:528][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.18-23.09.10:541][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.18-23.09.10:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.18-23.09.10:542][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.18-23.09.10:543][  0]LogDerivedDataCache: Using Local data cache path C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.18-23.09.10:544][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.18-23.09.10:544][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.18-23.09.10:579][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.18-23.09.10:582][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.18-23.09.10:583][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.18-23.09.10:688][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2020.08.18-23.09.11:136][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.18-23.09.11:348][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.18-23.09.11:348][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.18-23.09.11:348][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.18-23.09.11:348][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.18-23.09.11:348][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.18-23.09.11:367][  0]LogNetVersion: Myeou 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 825545305)
+[2020.08.18-23.09.13:271][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.054101 seconds
+[2020.08.18-23.09.13:281][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.08.18-23.09.13:281][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.08.18-23.09.13:281][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.18-23.09.13:953][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.18-23.09.13:957][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.18-23.09.14:053][  0]SourceControl: Source control is disabled
+[2020.08.18-23.09.17:180][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.18-23.09.17:195][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.18-23.09.17:195][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.18-23.09.17:328][  0]LogOcInput: OculusInput pre-init called
+[2020.08.18-23.09.17:343][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.18-23.09.17:343][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.18-23.09.17:439][  0]LogEngine: Initializing Engine...
+[2020.08.18-23.09.17:440][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.18-23.09.17:442][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.18-23.09.17:894][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.18-23.09.17:903][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.18-23.09.17:922][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.18-23.09.17:922][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.18-23.09.17:922][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.18-23.09.17:922][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.18-23.09.17:922][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.18-23.09.17:923][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.18-23.09.17:923][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.18-23.09.17:923][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.18-23.09.17:924][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.18-23.09.17:924][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.18-23.09.17:940][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: Channel Order:
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.18-23.09.17:941][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.18-23.09.17:971][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.08.18-23.09.17:981][  0]LogInit: FAudioDevice initialized.
+[2020.08.18-23.09.17:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.18-23.09.19:099][  0]LogDerivedDataCache: Saved boot cache 1.12s 78MB C:/Users/david/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.18-23.09.19:101][  0]LogInit: Texture streaming: Enabled
+[2020.08.18-23.09.19:127][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.18-23.09.19:127][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.18-23.09.19:155][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.18-23.09.19:212][  0]LogInit: Transaction tracking system initialized
+[2020.08.18-23.09.19:231][  0]BlueprintLog: New page: Editor Load
+[2020.08.18-23.09.19:279][  0]LocalizationService: Localization service is disabled
+[2020.08.18-23.09.19:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Desktop/Myeou/Product/Myeou/Content/' took 0.02s
+[2020.08.18-23.09.19:986][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.18-23.09.19:986][  0]LogCook: Display: Mobile HDR setting 0
+[2020.08.18-23.09.22:110][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.18-23.09.22:111][  0]LightingResults: New page: Lighting Build
+[2020.08.18-23.09.22:112][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.09.22:112][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.09.22:113][  0]MapCheck: New page: Map Check
+[2020.08.18-23.09.22:113][  0]LightingResults: New page: Lighting Build
+[2020.08.18-23.09.22:186][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.08.18-23.09.22:335][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.18-23.09.22:340][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.18-23.09.22:372][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.08.18-23.09.22:372][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.18-23.09.22:373][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.384ms to complete.
+[2020.08.18-23.09.22:373][  0]LogFileHelpers: Loading map 'Template_Default' took 0.263
+[2020.08.18-23.09.23:247][  0]LogCollectionManager: Loaded 0 collections in 0.009816 seconds
+[2020.08.18-23.09.24:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Desktop/Myeou/Product/Myeou/Saved/Collections/' took 0.00s
+[2020.08.18-23.09.24:542][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Desktop/Myeou/Product/Myeou/Content/Developers/david/Collections/' took 0.00s
+[2020.08.18-23.09.24:542][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Desktop/Myeou/Product/Myeou/Content/Collections/' took 0.00s
+[2020.08.18-23.09.24:542][  0]LogContentBrowser: Native class hierarchy populated in 0.1272 seconds. Added 3015 classes and 717 folders.
+[2020.08.18-23.09.26:596][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.08.18-23.09.37:317][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.08.18-23.09.37:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.18-23.09.37:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.18-23.09.37:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.18-23.09.37:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.18-23.09.37:832][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 2 classes and 3 folders.
+[2020.08.18-23.09.39:652][  0]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.18-23.09.39:655][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.18-23.09.39:676][  0]LogSlate: Took 0.018077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.18-23.09.40:030][  0]LogRenderer: Reallocating scene render targets to support 856x704 Format 10 NumSamples 1 (Frame:1).
+[2020.08.18-23.09.40:861][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.08.18-23.09.40:861][  0]LogLoad: (Engine Initialization) Total time: 40.43 seconds
+[2020.08.18-23.09.40:862][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.18-23.09.41:123][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.18-23.09.54:739][284]LogSlate: Took 0.031700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.18-23.09.57:634][346]LogAssetRegistry: Asset discovery search completed in 46.9475 seconds
+[2020.08.18-23.09.57:648][346]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.08.18-23.10.05:246][660]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.18-23.10.06:880][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.08.18-23.10.14:636][660]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.18-23.10.20:917][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.08.18-23.10.42:952][883]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.18-23.10.42:968][883]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.18-23.10.43:634][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.08.18-23.10.43:659][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.18-23.10.43:683][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.18-23.10.43:706][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.18-23.10.43:729][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.08.18-23.10.43:756][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.18-23.10.43:779][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.18-23.10.43:809][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.08.18-23.10.43:854][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.08.18-23.10.43:881][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.18-23.10.43:908][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.18-23.10.43:936][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.18-23.10.43:966][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.08.18-23.10.43:996][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.08.18-23.10.44:031][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.08.18-23.10.44:072][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.18-23.10.44:108][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.08.18-23.10.44:136][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.18-23.10.44:164][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.18-23.10.44:188][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.18-23.10.44:218][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.08.18-23.10.44:241][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.08.18-23.10.44:272][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.18-23.10.44:307][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.18-23.10.44:336][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.08.18-23.10.44:371][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.08.18-23.10.44:417][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.18-23.10.44:465][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.08.18-23.10.44:540][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.08.18-23.10.44:578][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.08.18-23.10.44:608][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.08.18-23.10.44:657][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.08.18-23.10.44:750][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.08.18-23.10.44:797][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.08.18-23.10.44:834][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.08.18-23.10.44:877][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.08.18-23.10.44:958][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.08.18-23.10.45:007][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.08.18-23.10.45:041][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.08.18-23.10.45:085][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.08.18-23.10.45:125][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.08.18-23.10.45:164][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.08.18-23.10.45:207][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.18-23.10.45:239][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.18-23.10.47:826][883]SourceControl: Error: Updated 0 paths from the index
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/ESCOPETAL.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/ESCOPETAL_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/ESCOPETAL_Skeleton.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/ESCOPETAR.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/ESCOPETAR_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/ESCOPETAR_Skeleton.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FALL.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FALL_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FALL_Skeleton.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FALR.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FALR_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FALR_Skeleton.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FAPL.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FAPL_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FAPL_Skeleton.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FAPR.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FAPR_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:248][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/FAPR_Skeleton.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/GLOCKL.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/GLOCKL_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/GLOCKL_Skeleton.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/GLOCKR.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/GLOCKR_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/GLOCKR_Skeleton.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/MAGNUML.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/MAGNUML_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/MAGNUML_Skeleton.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/MAGNUMR.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/MAGNUMR_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/MAGNUMR_Skeleton.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/RAYOLASERL.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/RAYOLASERL_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/RAYOLASERL_Skeleton.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/RAYOLASERR.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/RAYOLASERR_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/RAYOLASERR_Skeleton.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/SNIPERL.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/SNIPERL_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:249][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/SNIPERL_Skeleton.uasset'
+[2020.08.18-23.10.48:250][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/SNIPERR.uasset'
+[2020.08.18-23.10.48:250][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/SNIPERR_PhysicsAsset.uasset'
+[2020.08.18-23.10.48:250][883]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/Guns_S_/SNIPERR_Skeleton.uasset'
+[2020.08.18-23.11.09:057][366]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun.MyeouTGun
+[2020.08.18-23.11.09:101][366]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2020.08.18-23.11.09:595][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.18-23.11.09:597][366]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2020.08.18-23.11.09:810][366]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.18-23.11.11:006][366]LogRenderer: Reallocating scene render targets to support 912x704 Format 10 NumSamples 1 (Frame:1).
+[2020.08.18-23.14.30:338][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2020.08.18-23.14.30:339][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2020.08.18-23.14.30:339][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes' is outside repository
+[2020.08.18-23.14.30:339][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2020.08.18-23.14.30:339][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes' is outside repository
+[2020.08.18-23.14.30:339][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo' is outside repository
+[2020.08.18-23.14.30:339][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.08.18-23.14.30:339][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2020.08.18-23.14.30:340][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes' is outside repository
+[2020.08.18-23.14.30:340][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2020.08.18-23.14.30:340][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2020.08.18-23.14.30:340][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset' is outside repository
+[2020.08.18-23.14.30:340][301]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2020.08.18-23.14.45:660][479]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BlueprintCharacter/MyeouCharacter/Myeou_BS.Myeou_BS
+[2020.08.18-23.14.45:670][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.18-23.14.45:768][479]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.18-23.14.46:340][479]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.18-23.15.00:565][667]LogSlate: Window 'Myeou_BS' being destroyed
+[2020.08.18-23.15.00:587][667]LogSlate: Window 'Myeou_BS' being destroyed
+[2020.08.18-23.15.00:588][667]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.15.00:588][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.15.00:730][667]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.15.00:730][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.15.00:819][667]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.15.00:819][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.15.12:961][816]LogSkeletalMesh: Building Skeletal Mesh Armor0...
+[2020.08.18-23.15.13:077][816]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.18-23.15.13:103][816]LogSkeletalMesh: Section 0: 506 vertices, 5 active bones
+[2020.08.18-23.15.13:103][816]LogSkeletalMesh: Section 1: 2244 vertices, 7 active bones
+[2020.08.18-23.15.13:103][816]LogSkeletalMesh: Section 2: 329 vertices, 2 active bones
+[2020.08.18-23.15.13:104][816]LogSkeletalMesh: Section 3: 351 vertices, 1 active bones
+[2020.08.18-23.15.13:105][816]LogSkeletalMesh: Section 0: Material=0, 178 triangles
+[2020.08.18-23.15.13:105][816]LogSkeletalMesh: Section 1: Material=1, 832 triangles
+[2020.08.18-23.15.13:105][816]LogSkeletalMesh: Section 2: Material=2, 129 triangles
+[2020.08.18-23.15.13:105][816]LogSkeletalMesh: Section 3: Material=3, 120 triangles
+[2020.08.18-23.15.13:140][816]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/BlueprintCharacter/MyeouCharacter/Armors/Armor0.Armor0
+[2020.08.18-23.15.13:141][816]LogSkeletalMesh: Building Skeletal Mesh Armor100...
+[2020.08.18-23.15.13:176][816]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.18-23.15.13:189][816]LogSkeletalMesh: Section 0: 624 vertices, 7 active bones
+[2020.08.18-23.15.13:190][816]LogSkeletalMesh: Section 1: 2849 vertices, 8 active bones
+[2020.08.18-23.15.13:190][816]LogSkeletalMesh: Section 2: 324 vertices, 4 active bones
+[2020.08.18-23.15.13:191][816]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2020.08.18-23.15.13:191][816]LogSkeletalMesh: Section 1: Material=1, 1130 triangles
+[2020.08.18-23.15.13:191][816]LogSkeletalMesh: Section 2: Material=2, 124 triangles
+[2020.08.18-23.15.13:209][816]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/BlueprintCharacter/MyeouCharacter/Armors/Armor100.Armor100
+[2020.08.18-23.15.13:210][816]LogSkeletalMesh: Building Skeletal Mesh Armor50...
+[2020.08.18-23.15.13:244][816]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.18-23.15.13:256][816]LogSkeletalMesh: Section 0: 605 vertices, 7 active bones
+[2020.08.18-23.15.13:256][816]LogSkeletalMesh: Section 1: 2650 vertices, 7 active bones
+[2020.08.18-23.15.13:256][816]LogSkeletalMesh: Section 2: 273 vertices, 1 active bones
+[2020.08.18-23.15.13:257][816]LogSkeletalMesh: Section 3: 384 vertices, 1 active bones
+[2020.08.18-23.15.13:258][816]LogSkeletalMesh: Section 0: Material=0, 215 triangles
+[2020.08.18-23.15.13:258][816]LogSkeletalMesh: Section 1: Material=1, 1030 triangles
+[2020.08.18-23.15.13:258][816]LogSkeletalMesh: Section 2: Material=2, 105 triangles
+[2020.08.18-23.15.13:258][816]LogSkeletalMesh: Section 3: Material=3, 139 triangles
+[2020.08.18-23.15.13:279][816]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/BlueprintCharacter/MyeouCharacter/Armors/Armor50.Armor50
+[2020.08.18-23.15.13:317][816]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintCharacter/MyeouCharacter/MyeouCharacter.MyeouCharacter
+[2020.08.18-23.15.13:804][816]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2020.08.18-23.15.15:919][816]LogSlate: Took 0.001031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.18-23.15.16:442][817]LogSlate: Took 0.029747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.18-23.17.44:252][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/ESCOPETAL" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETAL.uasset" SILENT=true
+[2020.08.18-23.17.44:642][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAL4FC131624449E80F3BDF86B966C26AA1.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETAL.uasset'
+[2020.08.18-23.17.45:591][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAL05449C914DF9DEDC026A3A975CD4482C.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAL.uasset'
+[2020.08.18-23.17.45:657][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAL_PhysicsAsset9F85A5A748B3D5ACC8142899F4DFF420.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETAL_PhysicsAsset.uasset'
+[2020.08.18-23.17.46:539][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAL_PhysicsAsset7A6922EA45A1BB528438CE8617C71E11.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAL_PhysicsAsset.uasset'
+[2020.08.18-23.17.46:589][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/ESCOPETAR" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETAR.uasset" SILENT=true
+[2020.08.18-23.17.46:781][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAR10FAEC5E43B86C48C596F3B80D974F73.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETAR.uasset'
+[2020.08.18-23.17.47:763][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAR0D2EA8D843D4186C1587928570696D83.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAR.uasset'
+[2020.08.18-23.17.47:879][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAR_PhysicsAsset24571B0E4D8A60E707713CA34470BD8B.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETAR_PhysicsAsset.uasset'
+[2020.08.18-23.17.48:539][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAR_PhysicsAsset1EC9AA344141DDF6050A4387DD39D630.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAR_PhysicsAsset.uasset'
+[2020.08.18-23.17.48:609][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FALL" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FALL.uasset" SILENT=true
+[2020.08.18-23.17.48:728][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALL9CE7C8364F79A4F14ED4C5B82E861DC9.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FALL.uasset'
+[2020.08.18-23.17.49:189][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALLBCA8A76E46628C2A9082C69FB770E7BC.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FALL.uasset'
+[2020.08.18-23.17.49:258][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALL_PhysicsAsset632F195F4072EA881B46259947F653AB.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FALL_PhysicsAsset.uasset'
+[2020.08.18-23.17.52:802][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALL_PhysicsAsset48A72BEF4E90169AF688CD9EC5DC02CE.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FALL_PhysicsAsset.uasset'
+[2020.08.18-23.17.52:874][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FALR" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FALR.uasset" SILENT=true
+[2020.08.18-23.17.52:990][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALRF21C9E4E447C53FF7132498AF937D30F.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FALR.uasset'
+[2020.08.18-23.17.53:789][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALR3D825DF1408691586C0582953B7953CE.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FALR.uasset'
+[2020.08.18-23.17.53:863][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALR_PhysicsAsset6D4AF3154ECF273C56BCDB9953F05C5D.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FALR_PhysicsAsset.uasset'
+[2020.08.18-23.17.54:385][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FALR_PhysicsAsset5B2C536246F7008D128F0DB80F624B73.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FALR_PhysicsAsset.uasset'
+[2020.08.18-23.17.54:437][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPL" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL.uasset" SILENT=true
+[2020.08.18-23.17.54:537][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPL41ED0B2147B01094F0B4B0A8D4640C94.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL.uasset'
+[2020.08.18-23.17.55:059][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPL606BB278430DB90D9BE19E84C421237D.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FAPL.uasset'
+[2020.08.18-23.17.55:162][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPL_PhysicsAsset6998C5FA4529C5BC371124896023C3C2.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL_PhysicsAsset.uasset'
+[2020.08.18-23.17.55:697][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPL_PhysicsAssetF6F628BB410EDDD3DF084CB4F10AD860.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FAPL_PhysicsAsset.uasset'
+[2020.08.18-23.17.55:836][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPR" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR.uasset" SILENT=true
+[2020.08.18-23.17.56:082][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPRE058E846482855C7442B9F9179505F68.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR.uasset'
+[2020.08.18-23.17.57:229][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPRAA75774E4509422DEFFB7283A0E6C505.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FAPR.uasset'
+[2020.08.18-23.17.57:327][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPR_PhysicsAsset5D30BAAC4D3C583C255F6F8CB33C82CB.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR_PhysicsAsset.uasset'
+[2020.08.18-23.17.57:880][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAPR_PhysicsAsset03FBEA444E848DF57B83D69E676EE77C.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/FAPR_PhysicsAsset.uasset'
+[2020.08.18-23.17.58:040][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/GLOCKL" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCKL.uasset" SILENT=true
+[2020.08.18-23.17.58:069][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/GLOCKLB954A0844F648F3F3A1F24941DE2E0D3.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCKL.uasset'
+[2020.08.18-23.17.58:914][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/GLOCKL5DA1C37442A4A12E5336C4AE514262D8.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/GLOCKL.uasset'
+[2020.08.18-23.17.59:087][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/GLOCKR" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCKR.uasset" SILENT=true
+[2020.08.18-23.17.59:140][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/GLOCKRF86B70E641674E2DA8D4D38AA964BEEE.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCKR.uasset'
+[2020.08.18-23.18.00:370][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/GLOCKR7AFB5D3546BD05C88CF1B8811121F994.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/GLOCKR.uasset'
+[2020.08.18-23.18.00:463][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/MAGNUML" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUML.uasset" SILENT=true
+[2020.08.18-23.18.00:533][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUMLB8C7CA6F437246C80A8EF3BF10D96A44.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUML.uasset'
+[2020.08.18-23.18.01:352][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUML0B26B0F4421554486A1099806B3DCB0F.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/MAGNUML.uasset'
+[2020.08.18-23.18.02:138][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUML_PhysicsAssetCA7E46C44983699693AFAB90387B7E84.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUML_PhysicsAsset.uasset'
+[2020.08.18-23.18.05:654][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUML_PhysicsAsset496830244646E7CA0EEFD399F64195FE.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/MAGNUML_PhysicsAsset.uasset'
+[2020.08.18-23.18.05:740][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/MAGNUMR" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUMR.uasset" SILENT=true
+[2020.08.18-23.18.05:778][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUMRDA612AFA4B2E8043C63AC49C98FF0001.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUMR.uasset'
+[2020.08.18-23.18.06:887][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUMRB9D5A6244A4EC717900D36A35C59C54D.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/MAGNUMR.uasset'
+[2020.08.18-23.18.07:037][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUMR_PhysicsAsset5752361B4ADE489589438780854AB76F.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUMR_PhysicsAsset.uasset'
+[2020.08.18-23.18.08:426][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MAGNUMR_PhysicsAssetD2A1BD624FC27DC975F691A66CB25772.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/MAGNUMR_PhysicsAsset.uasset'
+[2020.08.18-23.18.08:526][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/RAYOLASERL" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASERL.uasset" SILENT=true
+[2020.08.18-23.18.08:607][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERL2AA272D0479C51197F8AFD946D69C47E.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASERL.uasset'
+[2020.08.18-23.18.09:292][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERLBA264EA444B9383BC343459991D6D560.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERL.uasset'
+[2020.08.18-23.18.09:372][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERL_PhysicsAsset6CB656C148E699232D7018BD90A8DC9B.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASERL_PhysicsAsset.uasset'
+[2020.08.18-23.18.10:001][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERL_PhysicsAssetF560B9F5417D4BBF857DD5AA7762AABF.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERL_PhysicsAsset.uasset'
+[2020.08.18-23.18.10:053][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/RAYOLASERR" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASERR.uasset" SILENT=true
+[2020.08.18-23.18.10:109][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERRADBF020A4938FD6098B709AE8A0B46E7.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASERR.uasset'
+[2020.08.18-23.18.11:435][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERRE0AC31854E6410CB721565A27A04351F.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERR.uasset'
+[2020.08.18-23.18.11:640][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERR_PhysicsAsset249630C946345881D4D36CA2E0151578.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASERR_PhysicsAsset.uasset'
+[2020.08.18-23.18.12:585][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/RAYOLASERR_PhysicsAssetED920B2340E369F38DDAD3A92D9CCEC7.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERR_PhysicsAsset.uasset'
+[2020.08.18-23.18.12:634][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/SNIPERL" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL.uasset" SILENT=true
+[2020.08.18-23.18.12:676][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERLC46A373D45C70C8FF0D76BBFA0E510D2.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL.uasset'
+[2020.08.18-23.18.13:933][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERL61A70D7945A4726D877149BA228CB8B4.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/SNIPERL.uasset'
+[2020.08.18-23.18.14:011][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERL_PhysicsAssetF35B775847554B26422AF0BC397C9E60.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL_PhysicsAsset.uasset'
+[2020.08.18-23.18.14:587][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERL_PhysicsAsset5149594B4302ECF2986A1E876DA1883B.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/SNIPERL_PhysicsAsset.uasset'
+[2020.08.18-23.18.14:665][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/SNIPERR" FILE="../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR.uasset" SILENT=true
+[2020.08.18-23.18.14:714][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERRECA289D145851601D0E98DB78DE12571.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR.uasset'
+[2020.08.18-23.18.15:653][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERRB4D59213456A53A2AA10DCAF66FDC22F.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/SNIPERR.uasset'
+[2020.08.18-23.18.15:790][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERR_PhysicsAssetED09A4AE4A43B251C81593905686F145.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR_PhysicsAsset.uasset'
+[2020.08.18-23.18.16:636][247]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/SNIPERR_PhysicsAsset55C288B943FAC00061E120A42A9009EE.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/Guns/SNIPERR_PhysicsAsset.uasset'
+[2020.08.18-23.18.39:249][247]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/ESCOPETAL.ESCOPETAL
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAL.ESCOPETAL
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/ESCOPETAL_PhysicsAsset.ESCOPETAL_PhysicsAsset
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAL_PhysicsAsset.ESCOPETAL_PhysicsAsset
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/ESCOPETAR.ESCOPETAR
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAR.ESCOPETAR
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/ESCOPETAR_PhysicsAsset.ESCOPETAR_PhysicsAsset
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/ESCOPETAR_PhysicsAsset.ESCOPETAR_PhysicsAsset
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/FALL.FALL
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FALL.FALL
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/FALL_PhysicsAsset.FALL_PhysicsAsset
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FALL_PhysicsAsset.FALL_PhysicsAsset
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/FALR.FALR
+[2020.08.18-23.18.39:249][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FALR.FALR
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/FALR_PhysicsAsset.FALR_PhysicsAsset
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FALR_PhysicsAsset.FALR_PhysicsAsset
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/FAPL.FAPL
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FAPL.FAPL
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/FAPL_PhysicsAsset.FAPL_PhysicsAsset
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FAPL_PhysicsAsset.FAPL_PhysicsAsset
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/FAPR.FAPR
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FAPR.FAPR
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/FAPR_PhysicsAsset.FAPR_PhysicsAsset
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/FAPR_PhysicsAsset.FAPR_PhysicsAsset
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/GLOCKL.GLOCKL
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/GLOCKL.GLOCKL
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/GLOCKR.GLOCKR
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/GLOCKR.GLOCKR
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/MAGNUML.MAGNUML
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/MAGNUML.MAGNUML
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/MAGNUML_PhysicsAsset.MAGNUML_PhysicsAsset
+[2020.08.18-23.18.39:250][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/MAGNUML_PhysicsAsset.MAGNUML_PhysicsAsset
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/MAGNUMR.MAGNUMR
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/MAGNUMR.MAGNUMR
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/MAGNUMR_PhysicsAsset.MAGNUMR_PhysicsAsset
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/MAGNUMR_PhysicsAsset.MAGNUMR_PhysicsAsset
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/RAYOLASERL.RAYOLASERL
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERL.RAYOLASERL
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/RAYOLASERL_PhysicsAsset.RAYOLASERL_PhysicsAsset
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERL_PhysicsAsset.RAYOLASERL_PhysicsAsset
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/RAYOLASERR.RAYOLASERR
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERR.RAYOLASERR
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/RAYOLASERR_PhysicsAsset.RAYOLASERR_PhysicsAsset
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/RAYOLASERR_PhysicsAsset.RAYOLASERR_PhysicsAsset
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/SNIPERL.SNIPERL
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/SNIPERL.SNIPERL
+[2020.08.18-23.18.39:251][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/SNIPERL_PhysicsAsset.SNIPERL_PhysicsAsset
+[2020.08.18-23.18.39:252][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/SNIPERL_PhysicsAsset.SNIPERL_PhysicsAsset
+[2020.08.18-23.18.39:252][247]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/SNIPERR.SNIPERR
+[2020.08.18-23.18.39:252][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/SNIPERR.SNIPERR
+[2020.08.18-23.18.39:252][247]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/SNIPERR_PhysicsAsset.SNIPERR_PhysicsAsset
+[2020.08.18-23.18.39:252][247]LogContentValidation: Display: Validating ObjectRedirector /Game/BlueprintCharacter/MyeouCharacter/Guns/SNIPERR_PhysicsAsset.SNIPERR_PhysicsAsset
+[2020.08.18-23.19.41:990][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.08.18-23.19.41:991][431]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.449
+[2020.08.18-23.19.41:994][431]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton] ([1] browsable assets)...
+[2020.08.18-23.19.41:994][431]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton]
+[2020.08.18-23.19.42:032][431]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/MyeouTGun_Skeleton_Auto10422512E45D54F709B5A0A837626848E.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton_Auto1.uasset'
+[2020.08.18-23.19.42:059][431]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.08.18-23.22.32:152][331]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintWeapon/Weapon.Weapon
+[2020.08.18-23.22.36:463][350]LogSlate: Window 'Weapon' being destroyed
+[2020.08.18-23.22.36:486][350]LogSlate: Window 'Weapon' being destroyed
+[2020.08.18-23.22.37:137][350]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.22.37:137][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.22.38:106][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.18-23.22.38:106][350]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.22.38:106][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.22.42:999][463]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintWeapon/Glock-R.Glock-R
+[2020.08.18-23.22.44:028][463]LogRenderer: Reallocating scene render targets to support 944x704 Format 10 NumSamples 1 (Frame:1).
+[2020.08.18-23.24.10:647][923]BlueprintLog: New page: Compile Glock-R
+[2020.08.18-23.24.12:406][923]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.08.18-23.24.16:744][965]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/GLOCKR.GLOCKR
+[2020.08.18-23.24.16:754][965]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.18-23.25.24:033][492]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BlueprintCharacter/MyeouCharacter/Myeou_BS.Myeou_BS
+[2020.08.18-23.25.24:041][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.18-23.25.24:135][492]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.18-23.25.24:688][492]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.18-23.25.39:166][669]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton.MyeouTGun_Skeleton
+[2020.08.18-23.25.39:189][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.18-23.25.39:484][669]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.18-23.29.42:817][923]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.08.18-23.29.42:818][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.121
+[2020.08.18-23.29.42:820][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintWeapon/Glock-L] ([1] browsable assets)...
+[2020.08.18-23.29.42:820][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintWeapon/Glock-L]
+[2020.08.18-23.29.42:917][923]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Glock-L_Auto2FFA798B545F7EEC713688EA849BEDA05.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintWeapon/Glock-L_Auto2.uasset'
+[2020.08.18-23.29.42:920][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintWeapon/Glock-R] ([1] browsable assets)...
+[2020.08.18-23.29.43:001][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BlueprintWeapon/Glock-R.Glock-R]
+[2020.08.18-23.29.43:001][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintWeapon/Glock-R]
+[2020.08.18-23.29.43:030][923]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Glock-R_Auto2F5262BCC4BBC3EB5FDD4079334FBC133.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintWeapon/Glock-R_Auto2.uasset'
+[2020.08.18-23.29.43:032][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintWeapon/FAL-R] ([1] browsable assets)...
+[2020.08.18-23.29.43:033][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintWeapon/FAL-R]
+[2020.08.18-23.29.43:044][923]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAL-R_Auto2F97D0BF7468F44246C23B49BA94F4B4B.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintWeapon/FAL-R_Auto2.uasset'
+[2020.08.18-23.29.43:047][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintWeapon/FAL-L] ([1] browsable assets)...
+[2020.08.18-23.29.43:047][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintWeapon/FAL-L]
+[2020.08.18-23.29.43:059][923]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/FAL-L_Auto2A48C707E44D9A4CA52179B88A5218D9C.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintWeapon/FAL-L_Auto2.uasset'
+[2020.08.18-23.29.43:061][923]LogFileHelpers: Auto-saving content packages took 0.243
+[2020.08.18-23.50.57:698][779]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Desktop/ESCOPETAXS.fbx)
+[2020.08.18-23.50.58:225][779]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Desktop/ESCOPETAXS.fbx
+[2020.08.18-23.50.58:356][779]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.18-23.56.26:859][779]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.18-23.56.31:192][779]LogMaterial: Display: Material /Game/BlueprintCharacter/GunsSocket/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.18-23.56.31:227][779]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.08.18-23.56.31:426][779]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.08.18-23.56.31:426][779]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.08.18-23.56.31:426][779]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.08.18-23.56.31:432][779]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.08.18-23.56.31:533][779]LogMaterial: Display: Material /Game/BlueprintCharacter/GunsSocket/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.18-23.56.31:545][779]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2020.08.18-23.56.31:583][779]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2020.08.18-23.56.31:618][779]LogMaterial: Display: Material /Game/BlueprintCharacter/GunsSocket/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.18-23.56.31:635][779]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2020.08.18-23.56.31:716][779]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2020.08.18-23.56.31:750][779]LogMaterial: Display: Material /Game/BlueprintCharacter/GunsSocket/Material_004.Material_004 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.18-23.56.31:812][779]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2020.08.18-23.56.31:859][779]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2020.08.18-23.56.31:978][779]LogFbx: Triangulating skeletal mesh ESCOPETAL.001
+[2020.08.18-23.56.32:265][779]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.18-23.56.32:451][779]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.18-23.56.32:477][779]LogSkeletalMesh: Section 0: 618 vertices, 1 active bones
+[2020.08.18-23.56.32:477][779]LogSkeletalMesh: Section 1: 355 vertices, 1 active bones
+[2020.08.18-23.56.32:477][779]LogSkeletalMesh: Section 2: 182 vertices, 1 active bones
+[2020.08.18-23.56.32:477][779]LogSkeletalMesh: Section 3: 156 vertices, 1 active bones
+[2020.08.18-23.56.32:478][779]LogSkeletalMesh: Section 0: Material=0, 294 triangles
+[2020.08.18-23.56.32:478][779]LogSkeletalMesh: Section 1: Material=1, 150 triangles
+[2020.08.18-23.56.32:478][779]LogSkeletalMesh: Section 2: Material=2, 98 triangles
+[2020.08.18-23.56.32:478][779]LogSkeletalMesh: Section 3: Material=3, 52 triangles
+[2020.08.18-23.56.32:623][779]LogSkeletalMesh: Building Skeletal Mesh ESCOPETAXS...
+[2020.08.18-23.56.32:712][779]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.18-23.56.32:729][779]LogSkeletalMesh: Section 0: 618 vertices, 1 active bones
+[2020.08.18-23.56.32:729][779]LogSkeletalMesh: Section 1: 355 vertices, 1 active bones
+[2020.08.18-23.56.32:729][779]LogSkeletalMesh: Section 2: 182 vertices, 1 active bones
+[2020.08.18-23.56.32:729][779]LogSkeletalMesh: Section 3: 156 vertices, 1 active bones
+[2020.08.18-23.56.32:730][779]LogSkeletalMesh: Section 0: Material=0, 294 triangles
+[2020.08.18-23.56.32:731][779]LogSkeletalMesh: Section 1: Material=1, 150 triangles
+[2020.08.18-23.56.32:731][779]LogSkeletalMesh: Section 2: Material=2, 98 triangles
+[2020.08.18-23.56.32:731][779]LogSkeletalMesh: Section 3: Material=3, 52 triangles
+[2020.08.18-23.56.32:821][779]LogSkeletalMesh: Built Skeletal Mesh [0.22s] /Game/BlueprintCharacter/GunsSocket/ESCOPETAXS.ESCOPETAXS
+[2020.08.18-23.56.52:523][779]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 156
+[2020.08.18-23.56.52:699][779]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 146
+[2020.08.18-23.56.53:497][779]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 136
+[2020.08.18-23.57.00:599][779]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 126
+[2020.08.18-23.57.01:299][779]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 116
+[2020.08.18-23.57.01:492][779]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 106
+[2020.08.18-23.57.01:528][779]LogSlate: Window 'Message' being destroyed
+[2020.08.18-23.57.03:102][779]LogSlate: Window 'Message' being destroyed
+[2020.08.18-23.57.04:170][779]LogSlate: Window 'Message' being destroyed
+[2020.08.18-23.57.04:230][779]LogLinker: Failed to load '/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset': Can't find file.
+[2020.08.18-23.57.04:231][779]LogLinker: Failed to load '/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset': Can't find file.
+[2020.08.18-23.57.04:749][779]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.18-23.57.04:749][779]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.57.04:750][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.57.04:818][779]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.08.18-23.57.04:819][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.18-23.57.04:945][779]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.18-23.57.16:155][963]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 96
+[2020.08.18-23.57.26:175][131]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 86
+[2020.08.18-23.57.28:060][171]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2020.08.18-23.57.44:571][332]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2020.08.18-23.57.46:696][351]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2020.08.18-23.58.00:386][535]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2020.08.18-23.58.09:361][625]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.08.18-23.58.09:545][627]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.08.18-23.58.19:221][731]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.08.18-23.58.32:673][867]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.08.18-23.58.33:494][880]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.18-23.58.38:998][932]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.08.18-23.58.40:245][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.18-23.58.40:540][949]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.18-23.58.50:799][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.08.18-23.58.50:802][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.168
+[2020.08.18-23.58.50:803][ 11]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintCharacter/GunsSocket/ESCOPETAL_Skeleton] ([1] browsable assets)...
+[2020.08.18-23.58.50:804][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/GunsSocket/ESCOPETAL_Skeleton]
+[2020.08.18-23.58.51:190][ 11]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAL_Skeleton_Auto3F8FBD8644EA25E8CE62B6094535D22A2.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/GunsSocket/ESCOPETAL_Skeleton_Auto3.uasset'
+[2020.08.18-23.58.51:192][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS] ([1] browsable assets)...
+[2020.08.18-23.58.51:246][ 11]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/BlueprintCharacter/GunsSocket/ESCOPETAXS.ESCOPETAXS]
+[2020.08.18-23.58.51:246][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS]
+[2020.08.18-23.58.51:275][ 11]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAXS_Auto3A38A5D474FBCECEBDC95478D20A0279F.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_Auto3.uasset'
+[2020.08.18-23.58.51:278][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintCharacter/GunsSocket/Material_001] ([1] browsable assets)...
+[2020.08.18-23.58.51:322][ 11]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BlueprintCharacter/GunsSocket/Material_001.Material_001]
+[2020.08.18-23.58.51:322][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/GunsSocket/Material_001]
+[2020.08.18-23.58.51:336][ 11]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Material_001_Auto3012514F0412694C128C33F80C185F155.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/GunsSocket/Material_001_Auto3.uasset'
+[2020.08.18-23.58.51:412][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintCharacter/GunsSocket/Material_002] ([1] browsable assets)...
+[2020.08.18-23.58.51:456][ 11]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BlueprintCharacter/GunsSocket/Material_002.Material_002]
+[2020.08.18-23.58.51:456][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/GunsSocket/Material_002]
+[2020.08.18-23.58.51:471][ 11]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Material_002_Auto387035DD04C1FB5F816573AB80B645341.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/GunsSocket/Material_002_Auto3.uasset'
+[2020.08.18-23.58.51:473][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintCharacter/GunsSocket/Material_003] ([1] browsable assets)...
+[2020.08.18-23.58.51:519][ 11]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BlueprintCharacter/GunsSocket/Material_003.Material_003]
+[2020.08.18-23.58.51:519][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/GunsSocket/Material_003]
+[2020.08.18-23.58.51:538][ 11]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Material_003_Auto3414647DA43CA4C0AA4DE1D9F40FDF49F.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/GunsSocket/Material_003_Auto3.uasset'
+[2020.08.18-23.58.51:549][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintCharacter/GunsSocket/Material_004] ([1] browsable assets)...
+[2020.08.18-23.58.51:598][ 11]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BlueprintCharacter/GunsSocket/Material_004.Material_004]
+[2020.08.18-23.58.51:598][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/GunsSocket/Material_004]
+[2020.08.18-23.58.51:676][ 11]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Material_004_Auto350540F2848638E5D830CA38A011A8DB6.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/GunsSocket/Material_004_Auto3.uasset'
+[2020.08.18-23.58.51:678][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset] ([1] browsable assets)...
+[2020.08.18-23.58.51:741][ 11]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset.ESCOPETAXS_PhysicsAsset]
+[2020.08.18-23.58.51:741][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset]
+[2020.08.18-23.58.51:771][ 11]LogSavePackage: Moving '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/ESCOPETAXS_PhysicsAsset_Auto3CC2E60FE4138FD0CA12CC2944DCD4009.tmp' to '../../../../../../Users/david/Desktop/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset_Auto3.uasset'
+[2020.08.18-23.58.51:782][ 11]LogFileHelpers: Auto-saving content packages took 0.980
+[2020.08.18-23.58.55:544][ 91]LogSlate: Window 'Message Log' being destroyed
+[2020.08.18-23.58.55:588][ 91]LogSlate: Window 'Message Log' being destroyed
+[2020.08.18-23.59.04:292][286]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintCharacter/GunsSocket/ESCOPETAXS.ESCOPETAXS
+[2020.08.18-23.59.04:309][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.18-23.59.04:499][286]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-00.00.09:308][877]BlueprintLog: New page: Compile Glock-R
+[2020.08.19-00.00.09:602][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.08.19-00.00.29:438][358]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.19-00.00.55:031][602]BlueprintLog: New page: Compile Glock-R
+[2020.08.19-00.00.55:347][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.08.19-00.01.04:026][748]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-00.01.04:027][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-00.01.04:803][748]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-00.01.04:804][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-00.01.47:769][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2020.08.19-00.01.47:769][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2020.08.19-00.01.47:769][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes' is outside repository
+[2020.08.19-00.01.47:770][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2020.08.19-00.01.47:770][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes' is outside repository
+[2020.08.19-00.01.47:771][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo' is outside repository
+[2020.08.19-00.01.47:772][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.08.19-00.01.47:775][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2020.08.19-00.01.47:776][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes' is outside repository
+[2020.08.19-00.01.47:776][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2020.08.19-00.01.47:776][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2020.08.19-00.01.47:777][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset' is outside repository
+[2020.08.19-00.01.47:777][262]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2020.08.19-00.01.54:443][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2020.08.19-00.01.54:444][311]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset' is outside repository
+[2020.08.19-00.02.19:357][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2020.08.19-00.02.19:357][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2020.08.19-00.02.19:358][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes' is outside repository
+[2020.08.19-00.02.19:358][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2020.08.19-00.02.19:359][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes' is outside repository
+[2020.08.19-00.02.19:360][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo' is outside repository
+[2020.08.19-00.02.19:360][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.08.19-00.02.19:360][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2020.08.19-00.02.19:360][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes' is outside repository
+[2020.08.19-00.02.19:360][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2020.08.19-00.02.19:360][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2020.08.19-00.02.19:361][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset' is outside repository
+[2020.08.19-00.02.19:361][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2020.08.19-00.02.52:894][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2020.08.19-00.02.52:894][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2020.08.19-00.02.52:894][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes' is outside repository
+[2020.08.19-00.02.52:894][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2020.08.19-00.02.52:894][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset' is outside repository
+[2020.08.19-00.02.52:895][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2020.08.19-00.03.10:311][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2020.08.19-00.03.10:311][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2020.08.19-00.03.10:312][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2020.08.19-00.03.10:313][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset' is outside repository
+[2020.08.19-00.03.10:313][222]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2020.08.19-00.03.21:055][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2020.08.19-00.03.21:056][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2020.08.19-00.03.21:056][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes' is outside repository
+[2020.08.19-00.03.21:056][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2020.08.19-00.03.21:056][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes' is outside repository
+[2020.08.19-00.03.21:056][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo' is outside repository
+[2020.08.19-00.03.21:056][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.08.19-00.03.21:056][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2020.08.19-00.03.21:057][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Meshes' is outside repository
+[2020.08.19-00.03.21:057][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2020.08.19-00.03.21:057][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBoxMesh.uasset' is outside repository
+[2020.08.19-00.03.21:057][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/UI/DockButton.uasset' is outside repository
+[2020.08.19-00.03.21:057][332]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2020.08.19-00.04.07:487][780]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.08.19-00.04.10:530][780]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.078 s
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: 
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: Stack: 
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffcabd59016 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffcab75b21a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9d889113 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9e7f2744 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9e7d283c UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9e7ebcc9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9e7ea17d UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9bf4f554 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9bf3a8d7 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9bf53cad UE4Editor-Renderer.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9baed71c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9bf6b808 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffc9bf4962c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffcab609ff2 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffcab60a393 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffcb4475391 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffcb447e254 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.08.19-00.04.10:530][780]LogOutputDevice: Error: [Callstack] 0x00007ffcaba832ef UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-00.04.10:531][780]LogOutputDevice: Error: [Callstack] 0x00007ffcaba82f94 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-00.04.10:531][780]LogOutputDevice: Error: [Callstack] 0x00007ffd035d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.19-00.04.10:531][780]LogOutputDevice: Error: [Callstack] 0x00007ffd03d4ce51 ntdll.dll!UnknownFunction []
+[2020.08.19-00.04.10:531][780]LogOutputDevice: Error: 
+[2020.08.19-00.04.10:531][780]LogStats:                SubmitErrorReport -  0.000 s
