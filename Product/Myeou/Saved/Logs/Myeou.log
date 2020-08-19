@@ -1065,3 +1065,1462 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.19-13.23.36:876][169]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.19-13.23.36:876][169]LogContentValidation: Display: Validating World /Game/Levels/DevTest.DevTest
 [2020.08.19-13.23.36:876][169]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/DevTest_BuiltData.DevTest_BuiltData
+[2020.08.19-13.24.25:163][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevTest" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-13.24.25:190][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.19-13.24.25:206][560]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/DevTest83226A514C0BCCBFA40F53AA4EC7F973.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest.umap'
+[2020.08.19-13.24.25:332][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevTest_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest_BuiltData.uasset" SILENT=true
+[2020.08.19-13.24.25:345][560]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/DevTest_BuiltData4E6143904EF9B80743B405AF063E21F7.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest_BuiltData.uasset'
+[2020.08.19-13.24.25:358][560]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.19-13.24.25:358][560]LogContentValidation: Display: Validating World /Game/Levels/DevTest.DevTest
+[2020.08.19-13.24.25:358][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/DevTest_BuiltData.DevTest_BuiltData
+[2020.08.19-13.24.28:246][653]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\FAPL.fbx)
+[2020.08.19-13.24.28:256][653]LogFbx: Loading FBX Scene from E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\FAPL.fbx
+[2020.08.19-13.24.28:262][653]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.24.36:616][653]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.19-13.24.36:642][653]LogFbx: Triangulating skeletal mesh FAPL
+[2020.08.19-13.24.36:669][653]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.24.36:699][653]LogSkeletalMesh: Section 0: 1105 vertices, 1 active bones
+[2020.08.19-13.24.36:699][653]LogSkeletalMesh: Section 1: 774 vertices, 1 active bones
+[2020.08.19-13.24.36:700][653]LogSkeletalMesh: Section 2: 545 vertices, 1 active bones
+[2020.08.19-13.24.36:700][653]LogSkeletalMesh: Section 3: 334 vertices, 1 active bones
+[2020.08.19-13.24.36:700][653]LogSkeletalMesh: Section 0: Material=0, 454 triangles
+[2020.08.19-13.24.36:700][653]LogSkeletalMesh: Section 1: Material=1, 330 triangles
+[2020.08.19-13.24.36:700][653]LogSkeletalMesh: Section 2: Material=2, 208 triangles
+[2020.08.19-13.24.36:700][653]LogSkeletalMesh: Section 3: Material=3, 118 triangles
+[2020.08.19-13.24.36:701][653]LogSkeletalMesh: Building Skeletal Mesh FAPL...
+[2020.08.19-13.24.36:714][653]LogSkeletalMesh: Section 0: 1105 vertices, 1 active bones
+[2020.08.19-13.24.36:714][653]LogSkeletalMesh: Section 1: 774 vertices, 1 active bones
+[2020.08.19-13.24.36:714][653]LogSkeletalMesh: Section 2: 545 vertices, 1 active bones
+[2020.08.19-13.24.36:714][653]LogSkeletalMesh: Section 3: 334 vertices, 1 active bones
+[2020.08.19-13.24.36:715][653]LogSkeletalMesh: Section 0: Material=0, 454 triangles
+[2020.08.19-13.24.36:715][653]LogSkeletalMesh: Section 1: Material=1, 330 triangles
+[2020.08.19-13.24.36:715][653]LogSkeletalMesh: Section 2: Material=2, 208 triangles
+[2020.08.19-13.24.36:715][653]LogSkeletalMesh: Section 3: Material=3, 118 triangles
+[2020.08.19-13.24.36:719][653]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/BlueprintWeapon/Guns/FAPL.FAPL
+[2020.08.19-13.24.36:719][653]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPL_Skeleton': Can't find file.
+[2020.08.19-13.24.36:719][653]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPL_Skeleton': Can't find file.
+[2020.08.19-13.24.36:722][653]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPL_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.36:722][653]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPL_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.36:726][653]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.19-13.24.36:726][653]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.36:726][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.36:731][653]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.36:731][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.36:741][653]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.24.38:286][796]LogSlate: Window 'Message Log' being destroyed
+[2020.08.19-13.24.38:292][796]LogSlate: Window 'Message Log' being destroyed
+[2020.08.19-13.24.40:826][890]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\FAPR.fbx)
+[2020.08.19-13.24.40:835][890]LogFbx: Loading FBX Scene from E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\FAPR.fbx
+[2020.08.19-13.24.40:841][890]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.24.46:068][890]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.19-13.24.46:094][890]LogFbx: Triangulating skeletal mesh FAPR
+[2020.08.19-13.24.46:121][890]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.24.46:149][890]LogSkeletalMesh: Section 0: 1110 vertices, 1 active bones
+[2020.08.19-13.24.46:149][890]LogSkeletalMesh: Section 1: 768 vertices, 1 active bones
+[2020.08.19-13.24.46:149][890]LogSkeletalMesh: Section 2: 558 vertices, 1 active bones
+[2020.08.19-13.24.46:149][890]LogSkeletalMesh: Section 3: 320 vertices, 1 active bones
+[2020.08.19-13.24.46:150][890]LogSkeletalMesh: Section 0: Material=0, 454 triangles
+[2020.08.19-13.24.46:150][890]LogSkeletalMesh: Section 1: Material=1, 330 triangles
+[2020.08.19-13.24.46:150][890]LogSkeletalMesh: Section 2: Material=2, 208 triangles
+[2020.08.19-13.24.46:150][890]LogSkeletalMesh: Section 3: Material=3, 118 triangles
+[2020.08.19-13.24.46:151][890]LogSkeletalMesh: Building Skeletal Mesh FAPR...
+[2020.08.19-13.24.46:164][890]LogSkeletalMesh: Section 0: 1110 vertices, 1 active bones
+[2020.08.19-13.24.46:164][890]LogSkeletalMesh: Section 1: 768 vertices, 1 active bones
+[2020.08.19-13.24.46:164][890]LogSkeletalMesh: Section 2: 558 vertices, 1 active bones
+[2020.08.19-13.24.46:164][890]LogSkeletalMesh: Section 3: 320 vertices, 1 active bones
+[2020.08.19-13.24.46:164][890]LogSkeletalMesh: Section 0: Material=0, 454 triangles
+[2020.08.19-13.24.46:164][890]LogSkeletalMesh: Section 1: Material=1, 330 triangles
+[2020.08.19-13.24.46:165][890]LogSkeletalMesh: Section 2: Material=2, 208 triangles
+[2020.08.19-13.24.46:165][890]LogSkeletalMesh: Section 3: Material=3, 118 triangles
+[2020.08.19-13.24.46:169][890]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/BlueprintWeapon/Guns/FAPR.FAPR
+[2020.08.19-13.24.46:169][890]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPR_Skeleton': Can't find file.
+[2020.08.19-13.24.46:169][890]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPR_Skeleton': Can't find file.
+[2020.08.19-13.24.46:172][890]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPR_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.46:172][890]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/FAPR_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.46:176][890]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.19-13.24.46:176][890]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.46:176][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.46:182][890]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.46:182][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.46:191][890]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.24.47:616][  6]LogSlate: Window 'Message Log' being destroyed
+[2020.08.19-13.24.47:621][  6]LogSlate: Window 'Message Log' being destroyed
+[2020.08.19-13.24.50:150][101]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\GLOCK.fbx)
+[2020.08.19-13.24.50:160][101]LogFbx: Loading FBX Scene from E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\GLOCK.fbx
+[2020.08.19-13.24.50:165][101]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.24.54:186][101]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.19-13.24.54:208][101]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/Material_000.Material_000 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.24.54:213][101]LogMaterial: Display: Missing cached shader map for material Material_000, compiling. 
+[2020.08.19-13.24.54:244][101]LogMaterial: Display: Missing cached shader map for material Material_000, compiling. 
+[2020.08.19-13.24.54:267][101]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/Casco_000.Casco_000 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.24.54:272][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.08.19-13.24.54:273][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.08.19-13.24.54:273][101]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.08.19-13.24.54:273][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.08.19-13.24.54:273][101]LogMaterial: Display: Missing cached shader map for material Casco_000, compiling. 
+[2020.08.19-13.24.54:308][101]LogMaterial: Display: Missing cached shader map for material Casco_000, compiling. 
+[2020.08.19-13.24.54:345][101]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/Dientes_000.Dientes_000 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.24.54:354][101]LogMaterial: Display: Missing cached shader map for material Dientes_000, compiling. 
+[2020.08.19-13.24.54:395][101]LogMaterial: Display: Missing cached shader map for material Dientes_000, compiling. 
+[2020.08.19-13.24.54:424][101]LogFbx: Triangulating skeletal mesh GLOCKR
+[2020.08.19-13.24.54:430][101]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.24.54:438][101]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 0: 206 vertices, 1 active bones
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 1: 157 vertices, 1 active bones
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 2: 66 vertices, 1 active bones
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 3: 34 vertices, 1 active bones
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 0: Material=0, 82 triangles
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 1: Material=1, 54 triangles
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 2: Material=2, 22 triangles
+[2020.08.19-13.24.54:440][101]LogSkeletalMesh: Section 3: Material=3, 12 triangles
+[2020.08.19-13.24.54:441][101]LogSkeletalMesh: Building Skeletal Mesh GLOCK...
+[2020.08.19-13.24.54:441][101]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.24.54:443][101]LogSkeletalMesh: Section 0: 206 vertices, 1 active bones
+[2020.08.19-13.24.54:443][101]LogSkeletalMesh: Section 1: 157 vertices, 1 active bones
+[2020.08.19-13.24.54:443][101]LogSkeletalMesh: Section 2: 66 vertices, 1 active bones
+[2020.08.19-13.24.54:443][101]LogSkeletalMesh: Section 3: 34 vertices, 1 active bones
+[2020.08.19-13.24.54:444][101]LogSkeletalMesh: Section 0: Material=0, 82 triangles
+[2020.08.19-13.24.54:444][101]LogSkeletalMesh: Section 1: Material=1, 54 triangles
+[2020.08.19-13.24.54:444][101]LogSkeletalMesh: Section 2: Material=2, 22 triangles
+[2020.08.19-13.24.54:444][101]LogSkeletalMesh: Section 3: Material=3, 12 triangles
+[2020.08.19-13.24.54:444][101]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/BlueprintWeapon/Guns/GLOCK.GLOCK
+[2020.08.19-13.24.54:445][101]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/GLOCK_Skeleton': Can't find file.
+[2020.08.19-13.24.54:445][101]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/GLOCK_Skeleton': Can't find file.
+[2020.08.19-13.24.54:448][101]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/GLOCK_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.54:448][101]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/GLOCK_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.54:452][101]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.19-13.24.54:452][101]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.54:452][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.54:458][101]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.54:458][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.54:466][101]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.24.56:978][256]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\MAGNUM.fbx)
+[2020.08.19-13.24.56:993][256]LogFbx: Loading FBX Scene from E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\MAGNUM.fbx
+[2020.08.19-13.24.57:002][256]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.24.57:375][256]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2020.08.19-13.24.57:974][256]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.08.19-13.24.58:073][256]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2020.08.19-13.24.58:370][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.08.19-13.24.59:776][256]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.19-13.24.59:811][256]LogFbx: Triangulating skeletal mesh MAGNUM
+[2020.08.19-13.24.59:820][256]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.24.59:840][256]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.24.59:842][256]LogSkeletalMesh: Section 0: 165 vertices, 1 active bones
+[2020.08.19-13.24.59:842][256]LogSkeletalMesh: Section 1: 100 vertices, 1 active bones
+[2020.08.19-13.24.59:842][256]LogSkeletalMesh: Section 2: 200 vertices, 1 active bones
+[2020.08.19-13.24.59:842][256]LogSkeletalMesh: Section 3: 90 vertices, 1 active bones
+[2020.08.19-13.24.59:843][256]LogSkeletalMesh: Section 0: Material=0, 74 triangles
+[2020.08.19-13.24.59:843][256]LogSkeletalMesh: Section 1: Material=1, 38 triangles
+[2020.08.19-13.24.59:843][256]LogSkeletalMesh: Section 2: Material=2, 72 triangles
+[2020.08.19-13.24.59:843][256]LogSkeletalMesh: Section 3: Material=3, 32 triangles
+[2020.08.19-13.24.59:843][256]LogSkeletalMesh: Building Skeletal Mesh MAGNUM...
+[2020.08.19-13.24.59:845][256]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 0: 165 vertices, 1 active bones
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 1: 100 vertices, 1 active bones
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 2: 200 vertices, 1 active bones
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 3: 90 vertices, 1 active bones
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 0: Material=0, 74 triangles
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 1: Material=1, 38 triangles
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 2: Material=2, 72 triangles
+[2020.08.19-13.24.59:848][256]LogSkeletalMesh: Section 3: Material=3, 32 triangles
+[2020.08.19-13.24.59:851][256]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/BlueprintWeapon/Guns/MAGNUM.MAGNUM
+[2020.08.19-13.24.59:851][256]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/MAGNUM_Skeleton': Can't find file.
+[2020.08.19-13.24.59:852][256]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/MAGNUM_Skeleton': Can't find file.
+[2020.08.19-13.24.59:856][256]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/MAGNUM_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.59:857][256]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/MAGNUM_PhysicsAsset': Can't find file.
+[2020.08.19-13.24.59:874][256]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.19-13.24.59:874][256]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.59:874][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.59:882][256]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.24.59:882][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.24.59:895][256]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.25.01:152][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.08.19-13.25.01:338][376]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.08.19-13.25.01:539][397]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.08.19-13.25.01:586][400]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.08.19-13.25.03:118][494]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.19-13.25.03:840][547]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.19-13.25.04:232][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.19-13.25.04:720][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.19-13.25.04:774][623]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.19-13.25.04:799][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.19-13.25.08:001][814]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\RAYOLASER.fbx)
+[2020.08.19-13.25.08:013][814]LogFbx: Loading FBX Scene from E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\RAYOLASER.fbx
+[2020.08.19-13.25.08:020][814]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.25.14:548][814]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.19-13.25.14:570][814]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/Negro.Negro needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.25.14:575][814]LogMaterial: Display: Missing cached shader map for material Negro, compiling. 
+[2020.08.19-13.25.14:596][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.08.19-13.25.14:596][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.08.19-13.25.14:596][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.08.19-13.25.14:596][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.08.19-13.25.14:600][814]LogMaterial: Display: Missing cached shader map for material Negro, compiling. 
+[2020.08.19-13.25.14:634][814]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/Azul_001.Azul_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.25.14:641][814]LogMaterial: Display: Missing cached shader map for material Azul_001, compiling. 
+[2020.08.19-13.25.14:681][814]LogMaterial: Display: Missing cached shader map for material Azul_001, compiling. 
+[2020.08.19-13.25.14:714][814]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/AzulDaño.AzulDaño needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.25.14:725][814]LogMaterial: Display: Missing cached shader map for material AzulDaño, compiling. 
+[2020.08.19-13.25.14:765][814]LogMaterial: Display: Missing cached shader map for material AzulDaño, compiling. 
+[2020.08.19-13.25.14:793][814]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/gris.gris needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.25.14:798][814]LogMaterial: Display: Missing cached shader map for material gris, compiling. 
+[2020.08.19-13.25.14:837][814]LogMaterial: Display: Missing cached shader map for material gris, compiling. 
+[2020.08.19-13.25.14:864][814]LogFbx: Triangulating skeletal mesh RAYOLASERR
+[2020.08.19-13.25.14:879][814]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.25.14:892][814]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 0: 382 vertices, 1 active bones
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 1: 84 vertices, 1 active bones
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 2: 136 vertices, 1 active bones
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 3: 92 vertices, 1 active bones
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 4: 274 vertices, 1 active bones
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 0: Material=0, 156 triangles
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 1: Material=1, 28 triangles
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 2: Material=2, 60 triangles
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 3: Material=3, 32 triangles
+[2020.08.19-13.25.14:896][814]LogSkeletalMesh: Section 4: Material=4, 100 triangles
+[2020.08.19-13.25.14:897][814]LogSkeletalMesh: Building Skeletal Mesh RAYOLASER...
+[2020.08.19-13.25.14:899][814]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.25.14:902][814]LogSkeletalMesh: Section 0: 382 vertices, 1 active bones
+[2020.08.19-13.25.14:902][814]LogSkeletalMesh: Section 1: 84 vertices, 1 active bones
+[2020.08.19-13.25.14:902][814]LogSkeletalMesh: Section 2: 136 vertices, 1 active bones
+[2020.08.19-13.25.14:902][814]LogSkeletalMesh: Section 3: 92 vertices, 1 active bones
+[2020.08.19-13.25.14:902][814]LogSkeletalMesh: Section 4: 274 vertices, 1 active bones
+[2020.08.19-13.25.14:903][814]LogSkeletalMesh: Section 0: Material=0, 156 triangles
+[2020.08.19-13.25.14:903][814]LogSkeletalMesh: Section 1: Material=1, 28 triangles
+[2020.08.19-13.25.14:903][814]LogSkeletalMesh: Section 2: Material=2, 60 triangles
+[2020.08.19-13.25.14:903][814]LogSkeletalMesh: Section 3: Material=3, 32 triangles
+[2020.08.19-13.25.14:903][814]LogSkeletalMesh: Section 4: Material=4, 100 triangles
+[2020.08.19-13.25.14:905][814]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/BlueprintWeapon/Guns/RAYOLASER.RAYOLASER
+[2020.08.19-13.25.14:905][814]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/RAYOLASER_Skeleton': Can't find file.
+[2020.08.19-13.25.14:905][814]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/RAYOLASER_Skeleton': Can't find file.
+[2020.08.19-13.25.14:909][814]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/RAYOLASER_PhysicsAsset': Can't find file.
+[2020.08.19-13.25.14:909][814]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/RAYOLASER_PhysicsAsset': Can't find file.
+[2020.08.19-13.25.14:915][814]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.19-13.25.14:915][814]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.25.14:915][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.25.14:923][814]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.25.14:923][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.25.14:932][814]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.25.17:644][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 156
+[2020.08.19-13.25.18:318][ 20]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 146
+[2020.08.19-13.25.18:439][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 136
+[2020.08.19-13.25.18:827][ 63]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\SNIPERL.fbx)
+[2020.08.19-13.25.18:842][ 63]LogFbx: Loading FBX Scene from E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\SNIPERL.fbx
+[2020.08.19-13.25.18:850][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 126
+[2020.08.19-13.25.18:850][ 63]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.25.21:300][ 63]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 116
+[2020.08.19-13.25.21:514][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2020.08.19-13.25.21:612][ 63]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2020.08.19-13.25.21:612][ 63]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2020.08.19-13.25.22:677][ 63]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.19-13.25.22:712][ 63]LogFbx: Triangulating skeletal mesh SNIPERL
+[2020.08.19-13.25.22:730][ 63]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.25.22:742][ 63]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.25.22:749][ 63]LogSkeletalMesh: Section 0: 432 vertices, 1 active bones
+[2020.08.19-13.25.22:749][ 63]LogSkeletalMesh: Section 1: 593 vertices, 1 active bones
+[2020.08.19-13.25.22:749][ 63]LogSkeletalMesh: Section 2: 90 vertices, 1 active bones
+[2020.08.19-13.25.22:750][ 63]LogSkeletalMesh: Section 3: 54 vertices, 1 active bones
+[2020.08.19-13.25.22:750][ 63]LogSkeletalMesh: Section 0: Material=0, 172 triangles
+[2020.08.19-13.25.22:750][ 63]LogSkeletalMesh: Section 1: Material=1, 252 triangles
+[2020.08.19-13.25.22:750][ 63]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.25.22:750][ 63]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.25.22:751][ 63]LogSkeletalMesh: Building Skeletal Mesh SNIPERL...
+[2020.08.19-13.25.22:753][ 63]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.25.22:760][ 63]LogSkeletalMesh: Section 0: 432 vertices, 1 active bones
+[2020.08.19-13.25.22:760][ 63]LogSkeletalMesh: Section 1: 593 vertices, 1 active bones
+[2020.08.19-13.25.22:760][ 63]LogSkeletalMesh: Section 2: 90 vertices, 1 active bones
+[2020.08.19-13.25.22:760][ 63]LogSkeletalMesh: Section 3: 54 vertices, 1 active bones
+[2020.08.19-13.25.22:761][ 63]LogSkeletalMesh: Section 0: Material=0, 172 triangles
+[2020.08.19-13.25.22:761][ 63]LogSkeletalMesh: Section 1: Material=1, 252 triangles
+[2020.08.19-13.25.22:761][ 63]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.25.22:761][ 63]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.25.22:765][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/BlueprintWeapon/Guns/SNIPERL.SNIPERL
+[2020.08.19-13.25.22:766][ 63]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERL_Skeleton': Can't find file.
+[2020.08.19-13.25.22:766][ 63]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERL_Skeleton': Can't find file.
+[2020.08.19-13.25.22:770][ 63]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERL_PhysicsAsset': Can't find file.
+[2020.08.19-13.25.22:771][ 63]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERL_PhysicsAsset': Can't find file.
+[2020.08.19-13.25.22:796][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.19-13.25.22:796][ 63]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.25.22:796][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.25.22:803][ 63]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.25.22:803][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.25.22:814][ 63]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.25.24:347][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.08.19-13.25.25:085][193]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.08.19-13.25.25:179][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.08.19-13.25.25:411][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.08.19-13.25.26:628][317]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\SNIPERR.fbx)
+[2020.08.19-13.25.26:642][317]LogFbx: Loading FBX Scene from E:\Tilinka Interactive\Myeou\Obj\Personajes\Myeou\Animación\1.0\WithGun\Guns\DoubleGun\Sockets\SNIPERR.fbx
+[2020.08.19-13.25.26:652][317]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.25.28:322][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.08.19-13.25.28:340][317]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.08.19-13.25.28:509][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.08.19-13.25.28:585][317]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.08.19-13.25.29:738][317]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.19-13.25.30:076][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.19-13.25.30:413][317]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.19-13.25.30:660][317]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.19-13.25.30:809][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.19-13.25.30:939][317]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.19-13.25.36:803][317]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.19-13.25.36:829][317]LogMaterial: Display: Material /Game/BlueprintWeapon/Guns/Mira.Mira needed to have new flag set bUsedWithSkeletalMesh !
+[2020.08.19-13.25.36:833][317]LogMaterial: Display: Missing cached shader map for material Mira, compiling. 
+[2020.08.19-13.25.36:859][317]LogMaterial: Display: Missing cached shader map for material Mira, compiling. 
+[2020.08.19-13.25.36:883][317]LogFbx: Triangulating skeletal mesh SNIPERR
+[2020.08.19-13.25.36:899][317]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.08.19-13.25.36:899][317]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.08.19-13.25.36:899][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.08.19-13.25.36:899][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.08.19-13.25.36:899][317]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.25.36:908][317]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.25.36:915][317]LogSkeletalMesh: Section 0: 506 vertices, 1 active bones
+[2020.08.19-13.25.36:915][317]LogSkeletalMesh: Section 1: 641 vertices, 1 active bones
+[2020.08.19-13.25.36:915][317]LogSkeletalMesh: Section 2: 92 vertices, 1 active bones
+[2020.08.19-13.25.36:915][317]LogSkeletalMesh: Section 3: 54 vertices, 1 active bones
+[2020.08.19-13.25.36:915][317]LogSkeletalMesh: Section 4: 4 vertices, 1 active bones
+[2020.08.19-13.25.36:916][317]LogSkeletalMesh: Section 0: Material=0, 208 triangles
+[2020.08.19-13.25.36:916][317]LogSkeletalMesh: Section 1: Material=1, 272 triangles
+[2020.08.19-13.25.36:916][317]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.25.36:916][317]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.25.36:916][317]LogSkeletalMesh: Section 4: Material=4, 2 triangles
+[2020.08.19-13.25.36:917][317]LogSkeletalMesh: Building Skeletal Mesh SNIPERR...
+[2020.08.19-13.25.36:920][317]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.25.36:925][317]LogSkeletalMesh: Section 0: 506 vertices, 1 active bones
+[2020.08.19-13.25.36:925][317]LogSkeletalMesh: Section 1: 641 vertices, 1 active bones
+[2020.08.19-13.25.36:925][317]LogSkeletalMesh: Section 2: 92 vertices, 1 active bones
+[2020.08.19-13.25.36:925][317]LogSkeletalMesh: Section 3: 54 vertices, 1 active bones
+[2020.08.19-13.25.36:925][317]LogSkeletalMesh: Section 4: 4 vertices, 1 active bones
+[2020.08.19-13.25.36:926][317]LogSkeletalMesh: Section 0: Material=0, 208 triangles
+[2020.08.19-13.25.36:926][317]LogSkeletalMesh: Section 1: Material=1, 272 triangles
+[2020.08.19-13.25.36:926][317]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.25.36:926][317]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.25.36:926][317]LogSkeletalMesh: Section 4: Material=4, 2 triangles
+[2020.08.19-13.25.36:928][317]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/BlueprintWeapon/Guns/SNIPERR.SNIPERR
+[2020.08.19-13.25.36:929][317]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERR_Skeleton': Can't find file.
+[2020.08.19-13.25.36:929][317]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERR_Skeleton': Can't find file.
+[2020.08.19-13.25.36:931][317]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERR_PhysicsAsset': Can't find file.
+[2020.08.19-13.25.36:931][317]LogLinker: Failed to load '/Game/BlueprintWeapon/Guns/SNIPERR_PhysicsAsset': Can't find file.
+[2020.08.19-13.25.36:954][317]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.08.19-13.25.36:954][317]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.25.36:954][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.25.36:961][317]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.25.36:961][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.25.36:969][317]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.26.27:596][433]LogSlate: Window 'Message Log' being destroyed
+[2020.08.19-13.26.27:602][433]LogSlate: Window 'Message Log' being destroyed
+[2020.08.19-13.26.32:952][829]LogEditorFactories: Performing atomic reimport of [E:/Tilinka Interactive/Myeou/Obj/Personajes/Myeou/Animación/1.0/WithGun/Guns/DoubleGun/Sockets/SNIPERR.fbx]
+[2020.08.19-13.26.32:980][829]LogFbx: Loading FBX Scene from E:/Tilinka Interactive/Myeou/Obj/Personajes/Myeou/Animación/1.0/WithGun/Guns/DoubleGun/Sockets/SNIPERR.fbx
+[2020.08.19-13.26.32:985][829]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.26.32:998][829]LogFbx: Triangulating skeletal mesh SNIPERR
+[2020.08.19-13.26.33:010][829]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/BlueprintCharacter/GunsSocket/Material_001.Material_001 or Material /Game/BlueprintWeapon/Guns/Material_001.Material_001
+[2020.08.19-13.26.33:010][829]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.26.33:013][829]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 0: 432 vertices, 1 active bones
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 1: 585 vertices, 1 active bones
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 2: 92 vertices, 1 active bones
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 3: 54 vertices, 1 active bones
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 0: Material=0, 172 triangles
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 1: Material=1, 252 triangles
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.26.33:018][829]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.26.33:026][829]LogEditorFactories: -- imported successfully
+[2020.08.19-13.26.33:028][829]LogSkeletalMesh: Building Skeletal Mesh SNIPERR...
+[2020.08.19-13.26.33:050][829]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 0: 471 vertices, 1 active bones
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 1: 675 vertices, 1 active bones
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 2: 99 vertices, 1 active bones
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 3: 53 vertices, 1 active bones
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 0: Material=0, 172 triangles
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 1: Material=1, 252 triangles
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.26.33:054][829]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.26.33:063][829]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/BlueprintWeapon/Guns/SNIPERR.SNIPERR
+[2020.08.19-13.26.33:064][829]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.27.10:915][548]LogEditorFactories: Performing atomic reimport of [E:/Tilinka Interactive/Myeou/Obj/Personajes/Myeou/Animación/1.0/WithGun/Guns/DoubleGun/Sockets/SNIPERR.fbx]
+[2020.08.19-13.27.10:948][548]LogFbx: Loading FBX Scene from E:/Tilinka Interactive/Myeou/Obj/Personajes/Myeou/Animación/1.0/WithGun/Guns/DoubleGun/Sockets/SNIPERR.fbx
+[2020.08.19-13.27.10:953][548]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.19-13.27.10:968][548]LogFbx: Triangulating skeletal mesh SNIPERR
+[2020.08.19-13.27.10:981][548]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/BlueprintCharacter/GunsSocket/Material_001.Material_001 or Material /Game/BlueprintWeapon/Guns/Material_001.Material_001
+[2020.08.19-13.27.10:981][548]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.08.19-13.27.10:984][548]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 0: 432 vertices, 1 active bones
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 1: 574 vertices, 1 active bones
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 2: 92 vertices, 1 active bones
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 3: 54 vertices, 1 active bones
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 0: Material=0, 172 triangles
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 1: Material=1, 252 triangles
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.27.10:988][548]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.27.10:997][548]LogEditorFactories: -- imported successfully
+[2020.08.19-13.27.10:999][548]LogSkeletalMesh: Building Skeletal Mesh SNIPERR...
+[2020.08.19-13.27.11:018][548]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 0: 459 vertices, 1 active bones
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 1: 660 vertices, 1 active bones
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 2: 98 vertices, 1 active bones
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 3: 53 vertices, 1 active bones
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 0: Material=0, 172 triangles
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 1: Material=1, 252 triangles
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2020.08.19-13.27.11:022][548]LogSkeletalMesh: Section 3: Material=3, 18 triangles
+[2020.08.19-13.27.11:031][548]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/BlueprintWeapon/Guns/SNIPERR.SNIPERR
+[2020.08.19-13.27.11:031][548]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.08.19-13.27.16:551][846]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/ESCOPETA.ESCOPETA
+[2020.08.19-13.27.16:556][846]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.27.16:664][846]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.27.47:154][480]LogSlate: Window 'ESCOPETA' being destroyed
+[2020.08.19-13.27.47:168][480]LogSlate: Window 'ESCOPETA' being destroyed
+[2020.08.19-13.27.47:176][480]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.27.47:177][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.27.52:102][782]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/FAL.FAL
+[2020.08.19-13.27.52:106][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.27.52:207][782]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.28.19:442][383]LogSlate: Window 'FAL' being destroyed
+[2020.08.19-13.28.19:458][383]LogSlate: Window 'FAL' being destroyed
+[2020.08.19-13.28.19:466][383]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.28.19:466][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.28.23:801][669]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/FAPL.FAPL
+[2020.08.19-13.28.23:806][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.28.23:908][669]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.28.38:974][621]LogSlate: Window 'FAPL' being destroyed
+[2020.08.19-13.28.38:988][621]LogSlate: Window 'FAPL' being destroyed
+[2020.08.19-13.28.38:997][621]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.28.38:997][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.28.40:804][753]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/FAPR.FAPR
+[2020.08.19-13.28.40:808][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.28.40:909][753]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.28.56:532][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPR" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR.uasset" SILENT=true
+[2020.08.19-13.28.56:556][653]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAPRA9C8A1D545BFFB01A9FC45B3F6BC6683.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR.uasset'
+[2020.08.19-13.28.56:900][653]AssetCheck: New page: Asset Save: FAPR
+[2020.08.19-13.28.56:900][653]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/FAPR.FAPR
+[2020.08.19-13.28.58:178][747]LogSlate: Window 'FAPR' being destroyed
+[2020.08.19-13.28.58:187][747]LogSlate: Window 'FAPR' being destroyed
+[2020.08.19-13.28.58:197][747]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.28.58:197][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.29.01:587][963]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/GLOCK.GLOCK
+[2020.08.19-13.29.01:591][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.29.01:691][963]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.29.18:512][948]LogSlate: Window 'GLOCK' being destroyed
+[2020.08.19-13.29.18:528][948]LogSlate: Window 'GLOCK' being destroyed
+[2020.08.19-13.29.18:536][948]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.29.18:536][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.29.21:705][155]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/MAGNUM.MAGNUM
+[2020.08.19-13.29.21:709][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.29.21:814][155]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.29.35:082][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/MAGNUM" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUM.uasset" SILENT=true
+[2020.08.19-13.29.35:095][913]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MAGNUMA87E86AF413426680645C4B0BFC26C70.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUM.uasset'
+[2020.08.19-13.29.35:508][913]AssetCheck: New page: Asset Save: MAGNUM
+[2020.08.19-13.29.35:508][913]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/MAGNUM.MAGNUM
+[2020.08.19-13.29.36:008][965]LogSlate: Window 'MAGNUM' being destroyed
+[2020.08.19-13.29.36:018][965]LogSlate: Window 'MAGNUM' being destroyed
+[2020.08.19-13.29.36:027][965]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.29.36:028][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.29.40:439][250]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/RAYOLASER.RAYOLASER
+[2020.08.19-13.29.40:443][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.29.40:546][250]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.29.57:434][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/RAYOLASER" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASER.uasset" SILENT=true
+[2020.08.19-13.29.57:450][209]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/RAYOLASER36253D9C45E8125347E77F832124659F.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASER.uasset'
+[2020.08.19-13.29.57:830][209]AssetCheck: New page: Asset Save: RAYOLASER
+[2020.08.19-13.29.57:830][209]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/RAYOLASER.RAYOLASER
+[2020.08.19-13.29.59:280][342]LogSlate: Window 'RAYOLASER' being destroyed
+[2020.08.19-13.29.59:291][342]LogSlate: Window 'RAYOLASER' being destroyed
+[2020.08.19-13.29.59:299][342]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.29.59:299][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.30.03:356][603]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/SNIPERL.SNIPERL
+[2020.08.19-13.30.03:360][603]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.30.03:460][603]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.30.17:064][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/SNIPERL" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL.uasset" SILENT=true
+[2020.08.19-13.30.17:128][409]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/SNIPERLD0EBF00840617F51B728F59088B6125D.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL.uasset'
+[2020.08.19-13.30.17:456][409]AssetCheck: New page: Asset Save: SNIPERL
+[2020.08.19-13.30.17:456][409]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/SNIPERL.SNIPERL
+[2020.08.19-13.30.18:214][482]LogSlate: Window 'SNIPERL' being destroyed
+[2020.08.19-13.30.18:225][482]LogSlate: Window 'SNIPERL' being destroyed
+[2020.08.19-13.30.18:233][482]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.30.18:233][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.30.21:073][668]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/SNIPERR.SNIPERR
+[2020.08.19-13.30.21:077][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.30.21:179][668]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.30.47:548][759]LogSlate: Window 'Message' being destroyed
+[2020.08.19-13.30.48:817][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/SNIPERR" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR.uasset" SILENT=true
+[2020.08.19-13.30.48:835][862]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/SNIPERRD3B52FC840B7FA9AC277C9B252B77B5B.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR.uasset'
+[2020.08.19-13.30.49:141][862]AssetCheck: New page: Asset Save: SNIPERR
+[2020.08.19-13.30.49:141][862]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/SNIPERR.SNIPERR
+[2020.08.19-13.30.49:930][935]LogSlate: Window 'SNIPERR' being destroyed
+[2020.08.19-13.30.49:941][935]LogSlate: Window 'SNIPERR' being destroyed
+[2020.08.19-13.30.49:948][935]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.30.49:948][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.30.55:608][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.08.19-13.31.01:577][289]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.19-13.31.03:741][289]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_000.Material_000
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_001.Material_001
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_002.Material_002
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_003.Material_003
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_004.Material_004
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_005.Material_005
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_006.Material_006
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_007.Material_007
+	Asset Name: /Game/BlueprintWeapon/Guns/Material_008.Material_008
+	Asset Name: /Game/BlueprintWeapon/Guns/Mira.Mira
+[2020.08.19-13.31.05:685][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.08.19-13.31.08:997][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.08.19-13.31.11:954][498]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.19-13.31.12:104][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.19-13.31.14:172][619]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/ESCOPETA.ESCOPETA
+[2020.08.19-13.31.14:177][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.31.14:288][619]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.31.19:640][932]LogSlate: Window 'ESCOPETA' being destroyed
+[2020.08.19-13.31.19:654][932]LogSlate: Window 'ESCOPETA' being destroyed
+[2020.08.19-13.31.19:661][932]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.31.19:661][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.31.21:541][ 69]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintWeapon/Guns/FAL.FAL
+[2020.08.19-13.31.21:545][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.31.21:646][ 69]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.31.22:879][151]LogSlate: Window 'FAL' being destroyed
+[2020.08.19-13.31.22:893][151]LogSlate: Window 'FAL' being destroyed
+[2020.08.19-13.31.22:901][151]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.31.22:901][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.31.38:826][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.08.19-13.31.40:973][206]LogSlate: Window 'Save Content' being destroyed
+[2020.08.19-13.31.41:174][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Glock-R" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Glock-R.uasset" SILENT=true
+[2020.08.19-13.31.41:186][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Glock-RC566BDDF45C2C9A9C1955086EA435735.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Glock-R.uasset'
+[2020.08.19-13.31.41:198][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/ESCOPETA" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETA.uasset" SILENT=true
+[2020.08.19-13.31.41:216][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/ESCOPETA63ABB68A4B98CC5EB75D67ACE595FEFB.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETA.uasset'
+[2020.08.19-13.31.41:528][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/ESCOPETA_PhysicsAsset032897274A0AADB405C87B92A2C0E878.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETA_PhysicsAsset.uasset'
+[2020.08.19-13.31.41:793][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/ESCOPETA_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETA_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.41:794][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/ESCOPETA_SkeletonC7EC0ABC42A7161607962F9EED4B8FF9.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETA_Skeleton.uasset'
+[2020.08.19-13.31.42:083][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAL" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAL.uasset" SILENT=true
+[2020.08.19-13.31.42:103][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAL8011E1C5475EC4FFFA9522B8833B5B9C.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAL.uasset'
+[2020.08.19-13.31.42:387][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAL_PhysicsAsset" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAL_PhysicsAsset.uasset" SILENT=true
+[2020.08.19-13.31.42:396][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAL_PhysicsAssetF676381643E0832C7099CC99D0597B15.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAL_PhysicsAsset.uasset'
+[2020.08.19-13.31.42:655][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAL_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAL_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.42:656][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAL_Skeleton1162D9094692E354E351468F7D22ED67.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAL_Skeleton.uasset'
+[2020.08.19-13.31.42:928][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPL" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL.uasset" SILENT=true
+[2020.08.19-13.31.42:952][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAPL30071A4C4D4FEE26EB7B2190FF4351FD.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL.uasset'
+[2020.08.19-13.31.43:366][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPL_PhysicsAsset" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL_PhysicsAsset.uasset" SILENT=true
+[2020.08.19-13.31.43:375][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAPL_PhysicsAsset846DCFCE42CFF8EAD54307A6C6DEF9B2.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL_PhysicsAsset.uasset'
+[2020.08.19-13.31.43:629][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPL_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.43:630][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAPL_Skeleton0328F78B421DDFE0E42FD4AE345F1B4A.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPL_Skeleton.uasset'
+[2020.08.19-13.31.43:925][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPR_PhysicsAsset" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR_PhysicsAsset.uasset" SILENT=true
+[2020.08.19-13.31.43:933][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAPR_PhysicsAssetA7C34F91495C3A0953850DAC754377D3.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR_PhysicsAsset.uasset'
+[2020.08.19-13.31.44:188][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/FAPR_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.44:189][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/FAPR_Skeleton8254986E42A118D4BF39F7870DF4899D.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/FAPR_Skeleton.uasset'
+[2020.08.19-13.31.44:495][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/GLOCK" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCK.uasset" SILENT=true
+[2020.08.19-13.31.44:508][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/GLOCKB2454CF64A16234071D5EEA2B6E750B6.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCK.uasset'
+[2020.08.19-13.31.44:872][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/GLOCK_PhysicsAsset" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCK_PhysicsAsset.uasset" SILENT=true
+[2020.08.19-13.31.44:882][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/GLOCK_PhysicsAsset1C59114C4F9DB1EA47E02485B6910531.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCK_PhysicsAsset.uasset'
+[2020.08.19-13.31.45:176][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/GLOCK_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCK_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.45:177][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/GLOCK_Skeleton83627DA840761D31304F928FEE0A64B9.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/GLOCK_Skeleton.uasset'
+[2020.08.19-13.31.45:453][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MAGNUM_PhysicsAsset897158AE4097A1CA7C29D694A961FE9C.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUM_PhysicsAsset.uasset'
+[2020.08.19-13.31.45:713][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/MAGNUM_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUM_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.45:714][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MAGNUM_SkeletonF07D728143E4644F4FAD7EA54FFC1ADF.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/MAGNUM_Skeleton.uasset'
+[2020.08.19-13.31.46:029][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/RAYOLASER_PhysicsAsset76C9B9E24DEA9BD6FB65D49BA0F3263F.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASER_PhysicsAsset.uasset'
+[2020.08.19-13.31.46:291][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/RAYOLASER_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASER_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.46:293][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/RAYOLASER_SkeletonE4D8D8F04E303414D426148BCCF57B88.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/RAYOLASER_Skeleton.uasset'
+[2020.08.19-13.31.46:595][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/SNIPERL_PhysicsAsset09F8874B4A3FDF018A8C8A98812F6217.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL_PhysicsAsset.uasset'
+[2020.08.19-13.31.46:869][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/SNIPERL_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.46:870][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/SNIPERL_Skeleton9243C1FB4730D9F1FEAE33B445AFB239.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERL_Skeleton.uasset'
+[2020.08.19-13.31.47:167][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/SNIPERR_PhysicsAsset0A941BFB4B0DA2302336E68EF2F11F0D.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR_PhysicsAsset.uasset'
+[2020.08.19-13.31.47:408][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/SNIPERR_Skeleton" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR_Skeleton.uasset" SILENT=true
+[2020.08.19-13.31.47:410][206]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/SNIPERR_Skeleton528E355E4BEDA3032D2FFD968E56EF2F.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/SNIPERR_Skeleton.uasset'
+[2020.08.19-13.31.47:771][206]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Blueprint /Game/BlueprintWeapon/Glock-R.Glock-R
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/ESCOPETA.ESCOPETA
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/ESCOPETA_PhysicsAsset.ESCOPETA_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/ESCOPETA_Skeleton.ESCOPETA_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/FAL.FAL
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/FAL_PhysicsAsset.FAL_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/FAL_Skeleton.FAL_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/FAPL.FAPL
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/FAPL_PhysicsAsset.FAPL_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/FAPL_Skeleton.FAPL_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/FAPR_PhysicsAsset.FAPR_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/FAPR_Skeleton.FAPR_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/GLOCK.GLOCK
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/GLOCK_PhysicsAsset.GLOCK_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/GLOCK_Skeleton.GLOCK_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/MAGNUM_PhysicsAsset.MAGNUM_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/MAGNUM_Skeleton.MAGNUM_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/RAYOLASER_PhysicsAsset.RAYOLASER_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/RAYOLASER_Skeleton.RAYOLASER_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/SNIPERL_PhysicsAsset.SNIPERL_PhysicsAsset
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/SNIPERL_Skeleton.SNIPERL_Skeleton
+[2020.08.19-13.31.47:771][206]LogContentValidation: Display: Validating PhysicsAsset /Game/BlueprintWeapon/Guns/SNIPERR_PhysicsAsset.SNIPERR_PhysicsAsset
+[2020.08.19-13.31.47:772][206]LogContentValidation: Display: Validating Skeleton /Game/BlueprintWeapon/Guns/SNIPERR_Skeleton.SNIPERR_Skeleton
+[2020.08.19-13.31.59:309][332]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintCharacter/MyeouCharacter/MyeouCharacter.MyeouCharacter
+[2020.08.19-13.32.03:829][681]LogSlate: Window 'MyeouCharacter' being destroyed
+[2020.08.19-13.32.03:842][681]LogSlate: Window 'MyeouCharacter' being destroyed
+[2020.08.19-13.32.03:842][681]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.32.03:842][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.32.05:709][819]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun.MyeouTGun
+[2020.08.19-13.32.05:713][819]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.32.05:820][819]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.32.13:906][445]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton.MyeouTGun_Skeleton
+[2020.08.19-13.32.13:910][445]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.32.13:952][445]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.19-13.32.22:016][238]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MyeouTGun_Skeleton0E08D93047F40E0593046DBAC7AE6A71.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton.uasset'
+[2020.08.19-13.32.22:032][238]AssetCheck: New page: Asset Save: MyeouTGun_Skeleton
+[2020.08.19-13.32.22:032][238]LogContentValidation: Display: Validating Skeleton /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton.MyeouTGun_Skeleton
+[2020.08.19-13.32.34:027][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.08.19-13.32.36:110][934]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.19-13.32.36:408][934]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset.GLOCKL_PhysicsAsset
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton.GLOCKL_Skeleton
+[2020.08.19-13.32.37:027][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.08.19-13.32.37:054][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.19-13.32.37:084][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.08.19-13.32.37:108][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.19-13.32.37:383][934]SourceControl: Error: Updated 0 paths from the index
+[2020.08.19-13.32.37:564][934]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset.uasset'
+[2020.08.19-13.32.37:564][934]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton.uasset'
+[2020.08.19-13.32.48:515][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset': Can't find file.
+[2020.08.19-13.32.48:515][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset': Can't find file.
+[2020.08.19-13.32.48:515][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton': Can't find file.
+[2020.08.19-13.32.48:515][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton': Can't find file.
+[2020.08.19-13.32.48:516][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset': Can't find file.
+[2020.08.19-13.32.48:516][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset': Can't find file.
+[2020.08.19-13.32.48:516][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton': Can't find file.
+[2020.08.19-13.32.48:516][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton': Can't find file.
+[2020.08.19-13.32.48:516][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton': Can't find file.
+[2020.08.19-13.32.48:516][766]LoadErrors: Failed to load /Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton.GLOCKL_Skeleton Referenced by GLOCKL
+[2020.08.19-13.32.48:516][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_Skeleton': Can't find file.
+[2020.08.19-13.32.48:517][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset': Can't find file.
+[2020.08.19-13.32.48:517][766]LoadErrors: Failed to load /Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset.GLOCKL_PhysicsAsset Referenced by GLOCKL
+[2020.08.19-13.32.48:517][766]LogLinker: Warning: While loading 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset' failed to load '/Game/BlueprintCharacter/GunsSocket/GLOCKL_PhysicsAsset': Can't find file.
+[2020.08.19-13.32.48:544][766]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.32.48:639][771]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.32.48:639][771]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.32.48:640][771]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.32.57:731][638]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.01:870][ 34]Cmd: TRANSACTION UNDO
+[2020.08.19-13.33.01:871][ 34]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2020.08.19-13.33.01:876][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.01:876][ 34]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.02:058][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.02:058][ 34]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.02:283][ 38]Cmd: TRANSACTION UNDO
+[2020.08.19-13.33.02:283][ 38]LogEditorTransaction: Undo Remove All Attached Assets
+[2020.08.19-13.33.02:297][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.02:439][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.03:698][144]Cmd: TRANSACTION UNDO
+[2020.08.19-13.33.03:698][144]LogEditorTransaction: Undo Rotate Bone
+[2020.08.19-13.33.03:698][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.03:832][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.04:530][202]Cmd: TRANSACTION UNDO
+[2020.08.19-13.33.04:530][202]LogEditorTransaction: Undo Persona editor: material changed
+[2020.08.19-13.33.04:542][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.04:673][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.19-13.33.17:821][390]LogSlate: Window 'MyeouTGun_Skeleton' being destroyed
+[2020.08.19-13.33.17:825][390]LogSlate: Window 'MyeouTGun_Skeleton' being destroyed
+[2020.08.19-13.33.17:833][390]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.33.17:833][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.33.17:957][390]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.33.17:958][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.33.18:437][435]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:513][438]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:563][441]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:612][444]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:694][447]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:724][450]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:771][453]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:807][456]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:847][459]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:885][462]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:922][465]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.18:961][468]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:001][471]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:039][474]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:080][477]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:127][480]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:184][483]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:221][486]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:268][489]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:314][492]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:360][495]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:404][498]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:450][501]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:497][504]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:543][507]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:589][510]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:639][513]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:697][516]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:745][519]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:791][522]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:838][525]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.19:964][538]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:012][541]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:076][544]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:134][547]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:174][550]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:220][553]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:276][556]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:312][559]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:358][562]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:403][565]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:449][568]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:497][571]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:544][574]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:591][577]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:636][580]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:681][583]LogAnimation: Warning: SkeletalMesh GLOCKL has no skeleton. This needs to fixed before an animation can be set
+[2020.08.19-13.33.20:727][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.08.19-13.33.22:315][584]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.19-13.33.22:524][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.08.19-13.33.22:561][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.19-13.33.22:584][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.08.19-13.33.22:872][584]SourceControl: Error: Updated 0 paths from the index
+[2020.08.19-13.33.23:048][584]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKL.uasset'
+[2020.08.19-13.33.47:496][212]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-13.33.48:265][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.08.19-13.34.26:409][212]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.19-13.34.36:331][212]LogUObjectGlobals: Force Deleting 45 Package(s):
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset.ESCOPETAXS_PhysicsAsset
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/ESCOPETAL_Skeleton.ESCOPETAL_Skeleton
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/Material_004.Material_004
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/Material_003.Material_003
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/Material_002.Material_002
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/Material_001.Material_001
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/ESCOPETAXS.ESCOPETAXS
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/ESCOPETAL.ESCOPETAL
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/ESCOPETAL_PhysicsAsset.ESCOPETAL_PhysicsAsset
+	Asset Name: /Game/BlueprintCharacter/GunsSocket/ESCOPETAR.ESCOPETAR
+[2020.08.19-13.34.44:432][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.19-13.34.44:459][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.19-13.34.44:486][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.08.19-13.34.44:513][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.19-13.34.44:539][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.19-13.34.44:565][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.19-13.34.44:590][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.44:610][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.19-13.34.44:651][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.19-13.34.44:678][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.19-13.34.44:701][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.44:729][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.44:755][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.19-13.34.44:777][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.44:801][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.44:827][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.44:853][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.19-13.34.44:880][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.19-13.34.44:905][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.19-13.34.44:930][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.19-13.34.44:956][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.44:982][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.19-13.34.45:005][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.19-13.34.45:030][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.19-13.34.45:058][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.19-13.34.45:080][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.19-13.34.45:108][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.19-13.34.45:134][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.45:163][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.19-13.34.45:191][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.19-13.34.45:218][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.19-13.34.45:244][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.19-13.34.45:285][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.19-13.34.45:309][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.19-13.34.45:338][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.19-13.34.45:362][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.19-13.34.45:386][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.19-13.34.45:413][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.19-13.34.45:439][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.19-13.34.45:464][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.45:493][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.19-13.34.45:520][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.19-13.34.45:548][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.19-13.34.45:571][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.19-13.34.45:600][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.19-13.34.45:627][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.08.19-13.34.45:654][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.19-13.34.45:943][212]SourceControl: Error: Updated 0 paths from the index
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAL.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAL_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAL_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAR.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAR_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAR_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAXS.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/ESCOPETAXS_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FALL.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FALL_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FALL_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FALR.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FALR_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FALR_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FAPL.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FAPL_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FAPL_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FAPR.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FAPR_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/FAPR_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKR.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKR_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/GLOCKR_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/MAGNUML.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/MAGNUML_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/MAGNUML_Skeleton.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/MAGNUMR.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/MAGNUMR_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:205][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/MAGNUMR_Skeleton.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/Material_001.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/Material_002.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/Material_003.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/Material_004.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/RAYOLASERL.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/RAYOLASERL_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/RAYOLASERL_Skeleton.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/RAYOLASERR.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/RAYOLASERR_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/RAYOLASERR_Skeleton.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/SNIPERL.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/SNIPERL_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/SNIPERL_Skeleton.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/SNIPERR.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/SNIPERR_PhysicsAsset.uasset'
+[2020.08.19-13.34.46:206][212]SourceControl: rm 'Product/Myeou/Content/BlueprintCharacter/GunsSocket/SNIPERR_Skeleton.uasset'
+[2020.08.19-13.34.55:097][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintWeapon/Glock-R.Glock-R
+[2020.08.19-13.34.56:315][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.08.19-13.34.56:316][249]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DevTest' took 0.030
+[2020.08.19-13.34.56:316][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton] ([1] browsable assets)...
+[2020.08.19-13.34.56:316][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton]
+[2020.08.19-13.34.56:324][249]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MyeouTGun_Skeleton_Auto32AB68C3D467E313320A29397BE26A153.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton_Auto3.uasset'
+[2020.08.19-13.34.56:325][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintWeapon/Glock-R] ([1] browsable assets)...
+[2020.08.19-13.34.56:325][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintWeapon/Glock-R]
+[2020.08.19-13.34.56:336][249]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Glock-R_Auto3A626832042E6F2F908A96FA6628A8A83.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintWeapon/Glock-R_Auto3.uasset'
+[2020.08.19-13.34.56:337][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun] ([1] browsable assets)...
+[2020.08.19-13.34.56:355][249]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun.MyeouTGun]
+[2020.08.19-13.34.56:355][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun]
+[2020.08.19-13.34.56:397][249]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MyeouTGun_Auto3F11F155547E6C2534D86B5AB576E13CD.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Auto3.uasset'
+[2020.08.19-13.34.56:398][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlueprintWeapon/Guns/ESCOPETA] ([1] browsable assets)...
+[2020.08.19-13.34.56:409][249]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/BlueprintWeapon/Guns/ESCOPETA.ESCOPETA]
+[2020.08.19-13.34.56:409][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintWeapon/Guns/ESCOPETA]
+[2020.08.19-13.34.56:432][249]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/ESCOPETA_Auto396C3731249456266C7D4639489BC943C.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Autosaves/Game/BlueprintWeapon/Guns/ESCOPETA_Auto3.uasset'
+[2020.08.19-13.34.56:433][249]LogFileHelpers: Auto-saving content packages took 0.117
+[2020.08.19-13.35.17:407][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Glock-R" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Glock-R.uasset" SILENT=true
+[2020.08.19-13.35.17:425][407]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Glock-R8A35AFFD465BF09A21880583B93C51E8.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Glock-R.uasset'
+[2020.08.19-13.35.17:439][407]AssetCheck: New page: Asset Save: Glock-R
+[2020.08.19-13.35.17:439][407]LogContentValidation: Display: Validating Blueprint /Game/BlueprintWeapon/Glock-R.Glock-R
+[2020.08.19-13.35.20:281][717]BlueprintLog: New page: Compile Glock-R
+[2020.08.19-13.35.20:498][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.08.19-13.35.23:471][ 12]LogSlate: Window 'Glock-R' being destroyed
+[2020.08.19-13.35.23:482][ 12]LogSlate: Window 'Glock-R' being destroyed
+[2020.08.19-13.35.23:490][ 12]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.35.23:491][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.35.30:312][796]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.19-13.35.30:321][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-13.35.30:321][796]PIE: New page: PIE session: DevTest (Aug 19, 2020, 5:35:30 AM)
+[2020.08.19-13.35.30:322][796]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.19-13.35.30:324][796]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.19-13.35.30:324][796]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.35.30:326][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002013s)
+[2020.08.19-13.35.30:327][796]LogAIModule: Creating AISystem for world DevTest
+[2020.08.19-13.35.30:327][796]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2020.08.19-13.35.30:328][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevTest.DevTest to /Game/Levels/UEDPIE_0_DevTest.DevTest (0.003719s)
+[2020.08.19-13.35.30:355][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.19-13.35.30:358][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.19-13.35.30:358][796]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.19-13.35.30:358][796]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.19-13.35.30:386][796]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.19-13.35.30:386][796]LogAudioMixer: Display: Name: Altavoces (USB Audio Device)
+[2020.08.19-13.35.30:386][796]LogAudioMixer: Display: Is Default: Yes
+[2020.08.19-13.35.30:386][796]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.19-13.35.30:386][796]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.19-13.35.30:386][796]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.19-13.35.30:387][796]LogAudioMixer: Display: Channel Order:
+[2020.08.19-13.35.30:387][796]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.19-13.35.30:387][796]LogAudioMixer: Display: 1: FrontRight
+[2020.08.19-13.35.30:400][796]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2020.08.19-13.35.30:402][796]LogInit: FAudioDevice initialized.
+[2020.08.19-13.35.30:447][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.35.30:468][796]LogLoad: Game class is 'TwinStickMode_C'
+[2020.08.19-13.35.30:470][796]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevTest.DevTest up for play (max tick rate 0) at 2020.08.19-09.35.30
+[2020.08.19-13.35.30:471][796]LogWorld: Bringing up level for play took: 0.000844
+[2020.08.19-13.35.30:471][796]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.08.19-13.35.30:474][796]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.08.19-13.35.30:479][796]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevTest -0.143
+[2020.08.19-13.35.41:537][ 84]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.35.41:538][ 84]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.35.41:538][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.35.41:538][ 84]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.35.41:546][ 84]LogSlate: Window 'Myeou Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.19-13.35.41:556][ 84]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.35.41:557][ 84]LogWorld: UWorld::CleanupWorld for DevTest, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.35.41:557][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.35.41:561][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.19-13.35.41:567][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.35.41:605][ 84]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.35.41:644][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.08.19-13.35.41:660][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.08.19-13.35.42:202][149]Cmd: SELECT NONE
+[2020.08.19-13.35.43:097][256]LogEditorViewport: Clicking on Actor (LMB): Glock-R_C (Glock-R)
+[2020.08.19-13.35.45:151][483]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintWeapon/Glock-R.Glock-R
+[2020.08.19-13.35.58:075][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Glock-R" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Glock-R.uasset" SILENT=true
+[2020.08.19-13.35.58:093][649]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Glock-R88D30F424F1EB9749B0ACEAF2D6EF920.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Glock-R.uasset'
+[2020.08.19-13.35.58:107][649]AssetCheck: New page: Asset Save: Glock-R
+[2020.08.19-13.35.58:107][649]LogContentValidation: Display: Validating Blueprint /Game/BlueprintWeapon/Glock-R.Glock-R
+[2020.08.19-13.35.59:021][734]BlueprintLog: New page: Compile Glock-R
+[2020.08.19-13.35.59:302][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.08.19-13.36.00:406][831]LogSlate: Window 'Glock-R' being destroyed
+[2020.08.19-13.36.00:418][831]LogSlate: Window 'Glock-R' being destroyed
+[2020.08.19-13.36.00:418][831]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.36.00:418][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.36.02:312][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.19-13.36.02:930][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevTest" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-13.36.02:959][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.08.19-13.36.02:976][ 93]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/DevTestC236BD874BF9B4EE2A5189A50595CBCA.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest.umap'
+[2020.08.19-13.36.03:097][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevTest_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest_BuiltData.uasset" SILENT=true
+[2020.08.19-13.36.03:111][ 93]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/DevTest_BuiltData337ED16D45B94ACDA3E422B8AB524817.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest_BuiltData.uasset'
+[2020.08.19-13.36.03:123][ 93]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.19-13.36.03:123][ 93]LogContentValidation: Display: Validating World /Game/Levels/DevTest.DevTest
+[2020.08.19-13.36.03:123][ 93]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/DevTest_BuiltData.DevTest_BuiltData
+[2020.08.19-13.36.04:098][208]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.19-13.36.04:106][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-13.36.04:106][208]PIE: New page: PIE session: DevTest (Aug 19, 2020, 5:36:04 AM)
+[2020.08.19-13.36.04:106][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.36.04:108][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001881s)
+[2020.08.19-13.36.04:109][208]LogAIModule: Creating AISystem for world DevTest
+[2020.08.19-13.36.04:109][208]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2020.08.19-13.36.04:110][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevTest.DevTest to /Game/Levels/UEDPIE_0_DevTest.DevTest (0.003144s)
+[2020.08.19-13.36.04:137][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.08.19-13.36.04:138][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.19-13.36.04:139][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.19-13.36.04:139][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.19-13.36.04:139][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.19-13.36.04:139][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.19-13.36.04:139][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.19-13.36.04:139][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.19-13.36.04:139][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.19-13.36.04:139][208]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.19-13.36.04:139][208]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.19-13.36.04:166][208]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.19-13.36.04:166][208]LogAudioMixer: Display: Name: Altavoces (USB Audio Device)
+[2020.08.19-13.36.04:166][208]LogAudioMixer: Display: Is Default: Yes
+[2020.08.19-13.36.04:166][208]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.19-13.36.04:166][208]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.19-13.36.04:167][208]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.19-13.36.04:167][208]LogAudioMixer: Display: Channel Order:
+[2020.08.19-13.36.04:167][208]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.19-13.36.04:167][208]LogAudioMixer: Display: 1: FrontRight
+[2020.08.19-13.36.04:179][208]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2020.08.19-13.36.04:180][208]LogInit: FAudioDevice initialized.
+[2020.08.19-13.36.04:231][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.36.04:232][208]LogLoad: Game class is 'TwinStickMode_C'
+[2020.08.19-13.36.04:233][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevTest.DevTest up for play (max tick rate 0) at 2020.08.19-09.36.04
+[2020.08.19-13.36.04:234][208]LogWorld: Bringing up level for play took: 0.000914
+[2020.08.19-13.36.04:234][208]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.08.19-13.36.04:238][208]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevTest -0.385
+[2020.08.19-13.36.27:659][ 12]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.27:663][ 12]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.08.19-13.36.27:683][ 12]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.08.19-13.36.27:683][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.36.27:683][ 12]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.36.27:692][ 12]LogSlate: Window 'Myeou Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.19-13.36.27:698][ 12]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.27:698][ 12]LogWorld: UWorld::CleanupWorld for DevTest, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.36.27:698][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.36.27:708][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.19-13.36.27:713][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.36.27:741][ 12]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.27:747][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.08.19-13.36.27:765][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.08.19-13.36.28:415][ 90]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.19-13.36.28:423][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-13.36.28:423][ 90]PIE: New page: PIE session: DevTest (Aug 19, 2020, 5:36:28 AM)
+[2020.08.19-13.36.28:423][ 90]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.36.28:426][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002476s)
+[2020.08.19-13.36.28:426][ 90]LogAIModule: Creating AISystem for world DevTest
+[2020.08.19-13.36.28:427][ 90]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2020.08.19-13.36.28:427][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevTest.DevTest to /Game/Levels/UEDPIE_0_DevTest.DevTest (0.003906s)
+[2020.08.19-13.36.28:453][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.08.19-13.36.28:453][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.19-13.36.28:453][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.19-13.36.28:453][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.19-13.36.28:453][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.19-13.36.28:453][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.19-13.36.28:453][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.19-13.36.28:453][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.19-13.36.28:453][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.19-13.36.28:454][ 90]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.19-13.36.28:454][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.19-13.36.28:480][ 90]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.19-13.36.28:480][ 90]LogAudioMixer: Display: Name: Altavoces (USB Audio Device)
+[2020.08.19-13.36.28:481][ 90]LogAudioMixer: Display: Is Default: Yes
+[2020.08.19-13.36.28:481][ 90]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.19-13.36.28:481][ 90]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.19-13.36.28:481][ 90]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.19-13.36.28:481][ 90]LogAudioMixer: Display: Channel Order:
+[2020.08.19-13.36.28:481][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.19-13.36.28:481][ 90]LogAudioMixer: Display: 1: FrontRight
+[2020.08.19-13.36.28:493][ 90]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2020.08.19-13.36.28:495][ 90]LogInit: FAudioDevice initialized.
+[2020.08.19-13.36.28:548][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.36.28:549][ 90]LogLoad: Game class is 'TwinStickMode_C'
+[2020.08.19-13.36.28:550][ 90]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevTest.DevTest up for play (max tick rate 0) at 2020.08.19-09.36.28
+[2020.08.19-13.36.28:550][ 90]LogWorld: Bringing up level for play took: 0.000932
+[2020.08.19-13.36.28:551][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.08.19-13.36.28:555][ 90]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevTest -0.068
+[2020.08.19-13.36.40:500][519]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.40:500][519]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.40:501][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.36.40:501][519]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.36.40:508][519]LogSlate: Window 'Myeou Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.19-13.36.40:514][519]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.40:514][519]LogWorld: UWorld::CleanupWorld for DevTest, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.36.40:514][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.36.40:520][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.19-13.36.40:526][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.36.40:554][519]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.40:560][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.08.19-13.36.40:607][523]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.08.19-13.36.43:500][854]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.19-13.36.43:508][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-13.36.43:508][854]PIE: New page: PIE session: DevTest (Aug 19, 2020, 5:36:43 AM)
+[2020.08.19-13.36.43:508][854]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.36.43:510][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002338s)
+[2020.08.19-13.36.43:511][854]LogAIModule: Creating AISystem for world DevTest
+[2020.08.19-13.36.43:511][854]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2020.08.19-13.36.43:511][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevTest.DevTest to /Game/Levels/UEDPIE_0_DevTest.DevTest (0.003610s)
+[2020.08.19-13.36.43:538][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.08.19-13.36.43:539][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.19-13.36.43:539][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.19-13.36.43:539][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.19-13.36.43:539][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.19-13.36.43:539][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.19-13.36.43:539][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.19-13.36.43:539][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.19-13.36.43:539][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.19-13.36.43:540][854]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.19-13.36.43:540][854]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.19-13.36.43:566][854]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.19-13.36.43:566][854]LogAudioMixer: Display: Name: Altavoces (USB Audio Device)
+[2020.08.19-13.36.43:567][854]LogAudioMixer: Display: Is Default: Yes
+[2020.08.19-13.36.43:567][854]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.19-13.36.43:567][854]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.19-13.36.43:567][854]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.19-13.36.43:567][854]LogAudioMixer: Display: Channel Order:
+[2020.08.19-13.36.43:567][854]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.19-13.36.43:567][854]LogAudioMixer: Display: 1: FrontRight
+[2020.08.19-13.36.43:579][854]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2020.08.19-13.36.43:580][854]LogInit: FAudioDevice initialized.
+[2020.08.19-13.36.43:633][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.36.43:633][854]LogLoad: Game class is 'TwinStickMode_C'
+[2020.08.19-13.36.43:635][854]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevTest.DevTest up for play (max tick rate 0) at 2020.08.19-09.36.43
+[2020.08.19-13.36.43:635][854]LogWorld: Bringing up level for play took: 0.000854
+[2020.08.19-13.36.43:635][854]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.08.19-13.36.43:640][854]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevTest 1.016
+[2020.08.19-13.36.52:403][901]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.52:403][901]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.52:403][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.19-13.36.52:403][901]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevTest
+[2020.08.19-13.36.52:411][901]LogSlate: Window 'Myeou Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.19-13.36.52:417][901]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.52:417][901]LogWorld: UWorld::CleanupWorld for DevTest, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.36.52:417][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.36.52:424][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.19-13.36.52:428][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.19-13.36.52:457][901]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.36.52:463][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.08.19-13.36.52:509][904]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.08.19-13.36.53:852][ 65]LogEditorViewport: Clicking on Actor (LMB): Glock-R_C (Glock-R)
+[2020.08.19-13.36.58:167][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevTest" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-13.36.58:193][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.08.19-13.36.58:210][565]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/DevTest2515EB9643E60E810D0EA69067D3D924.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest.umap'
+[2020.08.19-13.36.58:337][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevTest_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest_BuiltData.uasset" SILENT=true
+[2020.08.19-13.36.58:349][565]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/DevTest_BuiltData140979454E25DC2EF2D6589097C88E9B.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/DevTest_BuiltData.uasset'
+[2020.08.19-13.36.58:365][565]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.19-13.36.58:365][565]LogContentValidation: Display: Validating World /Game/Levels/DevTest.DevTest
+[2020.08.19-13.36.58:365][565]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/DevTest_BuiltData.DevTest_BuiltData
+[2020.08.19-13.36.59:242][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.08.19-13.38.27:098][662]LogSlate: Window 'Save Content' being destroyed
+[2020.08.19-13.38.27:320][662]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MyeouTGun930F6E164BAA1A399906E7A47B12663F.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/MyeouTGun.uasset'
+[2020.08.19-13.38.27:329][662]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/MyeouTGun_SkeletonC09AD5F04114F82275B2D2BC41BA3876.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton.uasset'
+[2020.08.19-13.38.27:330][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintWeapon/Guns/ESCOPETA" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETA.uasset" SILENT=true
+[2020.08.19-13.38.27:346][662]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/ESCOPETA4F576DCE47416B57825DC7BA2DCD209C.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/BlueprintWeapon/Guns/ESCOPETA.uasset'
+[2020.08.19-13.38.27:389][662]LogSlate: Window 'Myeou - Unreal Editor' being destroyed
+[2020.08.19-13.38.27:502][662]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.19-13.38.27:502][662]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun.MyeouTGun
+[2020.08.19-13.38.27:502][662]LogContentValidation: Display: Validating Skeleton /Game/BlueprintCharacter/MyeouCharacter/MyeouTGun_Skeleton.MyeouTGun_Skeleton
+[2020.08.19-13.38.27:502][662]LogContentValidation: Display: Validating SkeletalMesh /Game/BlueprintWeapon/Guns/ESCOPETA.ESCOPETA
+[2020.08.19-13.38.27:503][663]Cmd: QUIT_EDITOR
+[2020.08.19-13.38.27:503][663]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.08.19-13.38.27:516][663]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.08.19-13.38.27:516][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.19-13.38.28:300][663]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.19-13.38.28:310][663]LogExit: Preparing to exit.
+[2020.08.19-13.38.28:874][663]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:881][663]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:888][663]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:894][663]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:901][663]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:908][663]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:914][663]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:920][663]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.28:973][663]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.19-13.38.29:009][663]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.19-13.38.29:009][663]LogExit: Editor shut down
+[2020.08.19-13.38.29:010][663]LogExit: Transaction tracking system shut down
+[2020.08.19-13.38.29:270][663]LogExit: Object subsystem successfully closed.
+[2020.08.19-13.38.29:296][663]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.08.19-13.38.29:329][663]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (708)
+[2020.08.19-13.38.29:329][663]LogModuleManager: Shutting down and abandoning module Voice (706)
+[2020.08.19-13.38.29:329][663]LogModuleManager: Shutting down and abandoning module MeshBuilder (704)
+[2020.08.19-13.38.29:329][663]LogModuleManager: Shutting down and abandoning module BlueprintGraph (702)
+[2020.08.19-13.38.29:330][663]LogModuleManager: Shutting down and abandoning module PinnedCommandList (700)
+[2020.08.19-13.38.29:330][663]LogModuleManager: Shutting down and abandoning module SkeletonEditor (698)
+[2020.08.19-13.38.29:330][663]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.08.19-13.38.29:330][663]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.08.19-13.38.29:330][663]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.08.19-13.38.29:332][663]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.08.19-13.38.29:332][663]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.08.19-13.38.29:332][663]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.08.19-13.38.29:332][663]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.08.19-13.38.29:332][663]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.08.19-13.38.29:333][663]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.08.19-13.38.29:334][663]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.08.19-13.38.29:335][663]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.08.19-13.38.29:336][663]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.08.19-13.38.29:337][663]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.08.19-13.38.30:322][663]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.08.19-13.38.30:323][663]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.08.19-13.38.30:323][663]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.08.19-13.38.30:323][663]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.08.19-13.38.30:323][663]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.08.19-13.38.30:323][663]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.08.19-13.38.30:324][663]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.08.19-13.38.30:324][663]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.08.19-13.38.30:324][663]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.08.19-13.38.30:324][663]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.08.19-13.38.30:324][663]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.08.19-13.38.30:324][663]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.08.19-13.38.30:357][663]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.08.19-13.38.30:358][663]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.08.19-13.38.30:358][663]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.08.19-13.38.30:367][663]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.08.19-13.38.30:367][663]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.08.19-13.38.30:367][663]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.08.19-13.38.30:367][663]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.08.19-13.38.30:367][663]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.08.19-13.38.30:367][663]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.08.19-13.38.30:367][663]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.08.19-13.38.30:370][663]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.08.19-13.38.30:370][663]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.08.19-13.38.30:370][663]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.08.19-13.38.30:370][663]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.08.19-13.38.30:370][663]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.08.19-13.38.30:370][663]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.08.19-13.38.30:370][663]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.08.19-13.38.30:371][663]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.08.19-13.38.30:377][663]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.08.19-13.38.30:549][663]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.08.19-13.38.30:550][663]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.08.19-13.38.30:551][663]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.08.19-13.38.30:552][663]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.08.19-13.38.30:653][663]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.08.19-13.38.30:754][663]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.08.19-13.38.30:754][663]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.19-13.38.30:754][663]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.08.19-13.38.30:755][663]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.08.19-13.38.30:756][663]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.08.19-13.38.30:757][663]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.08.19-13.38.30:757][663]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.08.19-13.38.30:757][663]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.08.19-13.38.30:758][663]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.08.19-13.38.30:760][663]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.08.19-13.38.30:760][663]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.08.19-13.38.30:760][663]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.08.19-13.38.30:760][663]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.08.19-13.38.30:760][663]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.08.19-13.38.30:763][663]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.08.19-13.38.30:763][663]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.08.19-13.38.30:764][663]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.08.19-13.38.30:765][663]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.08.19-13.38.30:766][663]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.08.19-13.38.30:768][663]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.08.19-13.38.30:768][663]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.08.19-13.38.30:768][663]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.08.19-13.38.30:768][663]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.08.19-13.38.30:768][663]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.08.19-13.38.30:768][663]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.08.19-13.38.30:768][663]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.08.19-13.38.30:769][663]LogDerivedDataCache: Shutdown
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.08.19-13.38.30:769][663]LogXGEController: Cleaning working directory: C:/Users/Paulo Ochoa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.08.19-13.38.30:769][663]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.08.19-13.38.30:770][663]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.08.19-13.38.30:776][663]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.08.19-13.38.30:780][663]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.08.19-13.38.30:784][663]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.08.19-13.38.30:805][663]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.08.19-13.38.30:805][663]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.08.19-13.38.30:805][663]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.08.19-13.38.30:805][663]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.08.19-13.38.30:805][663]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.08.19-13.38.30:806][663]LogHMD: Freeing OpenVRDLLHandle.
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.08.19-13.38.30:806][663]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.08.19-13.38.30:807][663]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.08.19-13.38.30:807][663]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.08.19-13.38.30:827][663]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.08.19-13.38.30:827][663]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.19-13.38.30:827][663]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCC3AADFD-451F-0BDA-AB29-218C7B56349C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a889285a49e3c94bfbfa1f9e7fccd932%7C472da3b2e28c4a388b292019e8c2bb3e%7C542fed6a-2b03-462c-ba15-72cb39587bd7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.08.19-13.38.30:854][663]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.08.19-13.38.30:855][663]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.08.19-13.38.30:857][663]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.08.19-13.38.30:858][663]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.08.19-13.38.30:859][663]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.08.19-13.38.30:859][663]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.19-13.38.30:859][663]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.19-13.38.30:859][663]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.19-13.38.30:862][663]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.19-13.38.30:863][663]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.19-13.38.30:863][663]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.19-13.38.30:863][663]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.19-13.38.30:863][663]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.19-13.38.30:894][663]LogD3D11RHI: Shutdown
+[2020.08.19-13.38.30:894][663]LogD3D11RHI: CleanupD3DDevice
+[2020.08.19-13.38.30:910][663]LogExit: Exiting.
+[2020.08.19-13.38.31:037][663]Log file closed, 08/19/20 09:38:31
