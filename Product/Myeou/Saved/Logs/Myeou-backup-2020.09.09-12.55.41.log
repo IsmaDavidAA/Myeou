@@ -1,0 +1,1719 @@
+﻿Log file open, 09/09/20 08:32:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Myeou
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.088282
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: AMD Radeon (TM) R7 370 Series Graphics
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.09.09-12.32.45:171][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.09.09-12.32.45:172][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.09.09-12.32.45:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.09-12.32.45:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.09.09-12.32.45:173][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.09.09-12.32.45:177][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.09-12.32.45:177][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.09-12.32.45:178][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.09-12.32.45:179][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.09-12.32.45:179][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.09-12.32.45:179][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.09-12.32.45:181][  0]LogHAL: Display: Platform has ~ 16 GB [17129914368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.09-12.32.45:181][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.09-12.32.45:181][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.09.09-12.32.45:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.09.09-12.32.45:182][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.09-12.32.45:183][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.09-12.32.45:184][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.09-12.32.45:184][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.09-12.32.45:184][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Config/Windows/Engine.ini]
+[2020.09.09-12.32.45:184][  0]LogInit: Computer: TI-PC1
+[2020.09.09-12.32.45:184][  0]LogInit: User: PauloOchoa
+[2020.09.09-12.32.45:184][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.09-12.32.45:184][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.09-12.32.45:184][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.09.09-12.32.45:184][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.09-12.32.45:184][  0]LogMemory: Process Physical Memory: 106.46 MB used, 106.47 MB peak
+[2020.09.09-12.32.45:184][  0]LogMemory: Process Virtual Memory: 104.61 MB used, 104.61 MB peak
+[2020.09.09-12.32.45:184][  0]LogMemory: Physical Memory: 6154.36 MB used,  10182.00 MB free, 16336.36 MB total
+[2020.09.09-12.32.45:184][  0]LogMemory: Virtual Memory: 5109.05 MB used,  134212616.00 MB free, 134217728.00 MB total
+[2020.09.09-12.32.45:188][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.09-12.32.45:204][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.09.09-12.32.45:204][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.09.09-12.32.45:354][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.09-12.32.45:386][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.09-12.32.45:386][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.09-12.32.45:557][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.09-12.32.45:557][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.09-12.32.45:557][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.09-12.32.45:557][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.09-12.32.45:841][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R7 370 Series Graphics' (Feature Level 11_0)
+[2020.09.09-12.32.45:841][  0]LogD3D11RHI:       4075/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.09.09-12.32.45:848][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.09-12.32.45:848][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.09-12.32.45:848][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.09-12.32.45:861][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.09-12.32.45:861][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.09-12.32.45:861][  0]LogWindows: EnumDisplayDevices:
+[2020.09.09-12.32.45:862][  0]LogWindows:    0. 'AMD Radeon (TM) R7 370 Series Graphics' (P:1 D:1)
+[2020.09.09-12.32.45:863][  0]LogWindows:    1. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2020.09.09-12.32.45:864][  0]LogWindows:    2. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2020.09.09-12.32.45:864][  0]LogWindows:    3. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2020.09.09-12.32.45:865][  0]LogWindows:    4. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2020.09.09-12.32.45:866][  0]LogWindows:    5. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2020.09.09-12.32.45:866][  0]LogWindows:    6. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2020.09.09-12.32.45:867][  0]LogWindows:    7. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2020.09.09-12.32.45:867][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.09.09-12.32.45:867][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 370 Series Graphics
+[2020.09.09-12.32.45:867][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.4.2 (internal:26.20.15029.27017, unified:26.20.15029.27017)
+[2020.09.09-12.32.45:868][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.09.09-12.32.45:868][  0]LogRHI: Texture pool is 2853 MB (70% of 4075 MB)
+[2020.09.09-12.32.45:916][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.09.09-12.32.45:916][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.09-12.32.45:928][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.09.09-12.32.46:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.09-12.32.46:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.09-12.32.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.09-12.32.46:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.09-12.32.46:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.09-12.32.46:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.09-12.32.46:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.09-12.32.46:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.09-12.32.46:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.09-12.32.46:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.09-12.32.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.09-12.32.46:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.09-12.32.46:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.09-12.32.46:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.09-12.32.46:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.09-12.32.46:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.09-12.32.46:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.09-12.32.46:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.09-12.32.46:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.09-12.32.46:444][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.09-12.32.46:446][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.09-12.32.46:466][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Intermediate/Shaders/WorkingDirectory/3624/).
+[2020.09.09-12.32.46:466][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Paulo Ochoa/AppData/Local/Temp/UnrealShaderWorkingDir/22F3D2894EBEBEE2B2F92E80B1A43CA0/'.
+[2020.09.09-12.32.46:467][  0]LogXGEController: Cleaning working directory: C:/Users/Paulo Ochoa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.09-12.32.46:467][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.09-12.32.46:467][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.09-12.32.46:467][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.09-12.32.47:132][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.09-12.32.47:184][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Paulo Ochoa/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.09-12.32.47:184][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Paulo Ochoa/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.09.09-12.32.47:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.09-12.32.47:184][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.09-12.32.47:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.09-12.32.47:184][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.09-12.32.47:194][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.09-12.32.47:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.09-12.32.47:194][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.09-12.32.47:195][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Paulo Ochoa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.09-12.32.47:195][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.09-12.32.47:195][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.09-12.32.47:220][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.09-12.32.47:223][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.09-12.32.47:223][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.09-12.32.47:274][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.09.09-12.32.47:530][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.09-12.32.47:667][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.09-12.32.47:667][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.09-12.32.47:667][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.09-12.32.47:667][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.09-12.32.47:667][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.09-12.32.47:679][  0]LogNetVersion: Myeou 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 825545305)
+[2020.09.09-12.32.48:734][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.026729 seconds
+[2020.09.09-12.32.48:740][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.09.09-12.32.48:740][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.09.09-12.32.48:740][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.09-12.32.49:119][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.09-12.32.49:122][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.09-12.32.49:163][  0]SourceControl: Source control is disabled
+[2020.09.09-12.32.49:786][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.09-12.32.49:794][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.09-12.32.49:794][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.09-12.32.49:867][  0]LogOcInput: OculusInput pre-init called
+[2020.09.09-12.32.49:873][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.09-12.32.49:874][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.09-12.32.49:936][  0]LogEngine: Initializing Engine...
+[2020.09.09-12.32.49:937][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.09-12.32.49:938][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.09-12.32.50:280][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.09-12.32.50:286][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.09-12.32.50:309][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.09-12.32.50:309][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.09-12.32.50:309][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: Name: Altavoces (USB Audio Device)
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: Channel Order:
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.09-12.32.50:337][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.09-12.32.50:358][  0]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2020.09.09-12.32.50:362][  0]LogInit: FAudioDevice initialized.
+[2020.09.09-12.32.50:362][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.09-12.32.50:587][  0]LogDerivedDataCache: Saved boot cache 0.23s 78MB C:/Users/Paulo Ochoa/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.09-12.32.50:588][  0]LogInit: Texture streaming: Enabled
+[2020.09.09-12.32.50:610][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.09-12.32.50:610][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.09-12.32.50:625][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.09-12.32.50:668][  0]LogInit: Transaction tracking system initialized
+[2020.09.09-12.32.50:677][  0]BlueprintLog: New page: Editor Load
+[2020.09.09-12.32.50:704][  0]LocalizationService: Localization service is disabled
+[2020.09.09-12.32.50:989][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.09-12.32.50:990][  0]LogCook: Display: Mobile HDR setting 0
+[2020.09.09-12.32.51:062][  0]LogFileCache: Scanning file cache for directory 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/' took 0.01s
+[2020.09.09-12.32.51:695][  0]Cmd: MAP LOAD FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.09-12.32.51:696][  0]LightingResults: New page: Lighting Build
+[2020.09.09-12.32.51:696][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-12.32.51:696][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.09-12.32.51:696][  0]MapCheck: New page: Map Check
+[2020.09.09-12.32.51:697][  0]LightingResults: New page: Lighting Build
+[2020.09.09-12.32.51:720][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.09-12.32.53:116][  0]LogAIModule: Creating AISystem for world Level1
+[2020.09.09-12.32.53:137][  0]LogMaterial: Display: Material /Game/Materials/Verde.Verde needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.09.09-12.32.53:142][  0]LogMaterial: Display: Missing cached shader map for material Verde, compiling. 
+[2020.09.09-12.32.53:217][  0]MapCheck: Warning: Verde Material /Game/Materials/Verde.Verde was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.09.09-12.32.53:218][  0]LogMaterial: Display: Material /Game/Materials/Gris.Gris needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.09.09-12.32.53:222][  0]LogMaterial: Display: Missing cached shader map for material Gris, compiling. 
+[2020.09.09-12.32.53:268][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2020.09.09-12.32.53:268][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2020.09.09-12.32.53:268][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2020.09.09-12.32.53:268][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.09.09-12.32.53:268][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 31
+[2020.09.09-12.32.53:268][  0]MapCheck: Warning: Gris Material /Game/Materials/Gris.Gris was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.09.09-12.32.53:272][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.09-12.32.53:308][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.09.09-12.32.53:308][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.09-12.32.53:308][  0]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.088ms to complete.
+[2020.09.09-12.32.53:313][  0]LogFileHelpers: Loading map 'Level1' took 1.618
+[2020.09.09-12.32.53:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-12.32.53:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-12.32.53:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-12.32.53:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-12.32.53:542][  0]LogCollectionManager: Loaded 0 collections in 0.003284 seconds
+[2020.09.09-12.32.53:561][  0]LogFileCache: Scanning file cache for directory 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Collections/' took 0.00s
+[2020.09.09-12.32.53:561][  0]LogFileCache: Scanning file cache for directory 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Developers/PauloOchoa/Collections/' took 0.00s
+[2020.09.09-12.32.53:561][  0]LogFileCache: Scanning file cache for directory 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Collections/' took 0.00s
+[2020.09.09-12.32.53:561][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 3015 classes and 717 folders.
+[2020.09.09-12.32.53:564][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.09-12.32.53:667][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.09-12.32.53:672][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.09.09-12.32.53:967][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.09-12.32.53:969][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.09-12.32.53:975][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.09-12.32.54:071][  0]LogRenderer: Reallocating scene render targets to support 1048x512 Format 9 NumSamples 1 (Frame:1).
+[2020.09.09-12.32.54:229][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.09-12.32.54:229][  0]LogLoad: (Engine Initialization) Total time: 10.81 seconds
+[2020.09.09-12.32.54:229][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.09-12.32.54:291][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.09.09-12.32.54:381][  0]LogRenderer: Reallocating scene render targets to support 1048x528 Format 9 NumSamples 1 (Frame:3).
+[2020.09.09-12.32.54:428][  1]LogAssetRegistry: Asset discovery search completed in 7.1547 seconds
+[2020.09.09-12.32.54:435][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000020 seconds (updated 0 objects)
+[2020.09.09-12.32.57:992][360]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2020.09.09-12.32.58:187][383]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2020.09.09-12.32.58:688][439]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2020.09.09-12.32.58:914][466]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2020.09.09-12.33.01:724][792]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2020.09.09-12.33.01:871][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2020.09.09-12.33.02:576][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.09.09-12.33.02:939][933]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.09.09-12.33.05:647][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.09.09-12.33.06:563][361]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.09-12.33.06:747][382]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.09.09-12.33.06:993][411]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.09.09-12.33.08:427][577]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.09-12.33.08:738][612]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.09-12.33.09:225][670]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.09-12.33.09:606][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.09-12.33.09:716][728]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.09-12.33.09:732][730]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.09-12.33.13:452][142]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.09-12.33.13:475][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.33.13:497][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.09.09-12.33.13:700][142]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level12A1DC4134D19C54FBC95B48102BA5D99.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.33.13:823][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.33.13:844][142]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData4EC8BFFE45373F970A09C0BAF0EFFBAC.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.33.13:858][142]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.33.13:858][142]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.33.13:858][142]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.33.20:475][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.33.20:498][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.09.09-12.33.20:701][895]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level177A8AA514EFB97FD0A77D18F853899C0.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.33.20:868][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.33.20:890][895]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData805ECCFC41B13E3B4C579B834FD926E7.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.33.20:901][895]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.33.20:901][895]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.33.20:901][895]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.33.24:224][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:245][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:250][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:253][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:257][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:261][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:277][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:281][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:285][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:288][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:292][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:349][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:358][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:367][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:376][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:384][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:393][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:397][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:400][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:404][135]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.33.24:408][135]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.09.09-12.33.36:036][376]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.09.09-12.34.26:579][485]Cmd: TRANSACTION UNDO
+[2020.09.09-12.34.26:579][485]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.09.09-12.34.26:624][485]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2020.09.09-12.34.26:898][491]Cmd: TRANSACTION UNDO
+[2020.09.09-12.34.26:898][491]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.09.09-12.34.49:793][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.34.49:819][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.09.09-12.34.50:011][ 80]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.34.50:038][ 80]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level14B3A443E4ECDFC9FB4A96F9404B03F82.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.34.50:203][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.34.50:224][ 80]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData87B3C72F4D3483DB4A882481BFA0CCD3.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.34.50:235][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.34.50:235][ 80]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.34.50:235][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.35.58:510][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.35.58:536][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.09.09-12.35.58:726][847]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.35.58:752][847]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level14B73E5A849FFC0E52A35D5AF9B0DFB35.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.35.58:871][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.35.58:890][847]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataA4C4376E4054BAABC32814B0A07D5A7D.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.35.58:902][847]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.35.58:902][847]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.35.58:902][847]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.36.06:132][700]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.09.09-12.36.09:810][129]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.09.09-12.36.15:196][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.36.15:219][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.09.09-12.36.15:404][746]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.36.15:445][746]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1C8ED950042179D863E792F97D13DAB71.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.36.15:570][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.36.15:589][746]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataB79486AC42935C3418235782352A400E.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.36.15:601][746]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.36.15:601][746]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.36.15:601][746]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.36.33:010][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.36.33:035][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.09.09-12.36.33:214][708]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2020.09.09-12.36.33:242][708]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level168E89BD1403C836D02D408B6F0AFACF7.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.36.33:369][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.36.33:388][708]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData52B87C554F0E1A811B1C7AA67757CC7F.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.36.33:400][708]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.36.33:400][708]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.36.33:400][708]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.36.42:246][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.36.42:270][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.09.09-12.36.42:475][750]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level100C99F564857D6F5A3378D80EE6E3EAF.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.36.42:603][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.36.42:621][750]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataC9D587C14F09466879856FBF06138D18.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.36.42:632][750]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.36.42:632][750]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.36.42:632][750]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.36.47:529][316]Cmd: TRANSACTION UNDO
+[2020.09.09-12.36.47:529][316]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.09.09-12.36.47:551][316]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2020.09.09-12.36.47:977][323]Cmd: TRANSACTION UNDO
+[2020.09.09-12.36.47:977][323]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.09.09-12.36.48:038][323]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2020.09.09-12.36.48:195][324]Cmd: TRANSACTION UNDO
+[2020.09.09-12.36.48:195][324]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.09.09-12.36.48:234][324]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2020.09.09-12.36.49:015][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.36.49:040][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.09.09-12.36.49:244][395]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level10AAC8CAD42DAFD01861D17968825889A.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.36.49:382][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.36.49:401][395]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData1530FC4644D4F604312BBC9BE9B1A0A4.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.36.49:415][395]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.36.49:415][395]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.36.49:415][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.37.24:731][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.37.24:756][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.09.09-12.37.24:973][405]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2020.09.09-12.37.25:017][405]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level18908D87C4AA5DB4F1B0932B0FBCC7834.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.37.25:147][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.37.25:165][405]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData97CB135648DAF80A82562585FC36FBA1.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.37.25:176][405]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.37.25:176][405]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.37.25:176][405]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.37.35:148][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.37.35:173][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.09.09-12.37.35:376][570]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level19A57348E4AD61ACEBD92C5BAD932D8FB.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.37.35:516][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.37.35:536][570]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData12457AF649CAC624B38E6EA6F8739BE8.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.37.35:547][570]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.37.35:547][570]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.37.35:547][570]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.37.49:747][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.37.49:773][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.09.09-12.37.49:978][173]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level185B0DED3479566FA91C9BABFB31034B9.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.37.50:105][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.37.50:124][173]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataD86F55D14B46C33978A229A16BDFDAF3.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.37.50:136][173]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.37.50:136][173]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.37.50:136][173]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.38.29:167][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.38.29:192][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.09.09-12.38.29:401][657]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1EA66AF9F4F34A7AA7B828487BAC2C1F5.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.38.29:533][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.38.29:554][657]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataC01C5C7B41EA65B092FB9E8D74457F60.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.38.29:566][657]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.38.29:566][657]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.38.29:566][657]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.38.32:129][941]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.09.09-12.38.41:134][  0]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.09.09-12.38.42:465][155]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.09.09-12.38.43:021][218]Cmd: DELETE
+[2020.09.09-12.38.43:021][218]Cmd: ACTOR DELETE
+[2020.09.09-12.38.43:043][218]LogEditorActor: Deleted Actor: PointLight
+[2020.09.09-12.38.43:066][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.09.09-12.38.43:067][218]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.09.09-12.38.47:930][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.38.47:953][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.09.09-12.38.48:154][773]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level18E5C1ADE4EBDB95BC38FCA9C61A27EC8.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.38.48:272][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.38.48:291][773]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData48C5BBBF4E93DBDE7F3A71BEC8B56108.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.38.48:303][773]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.38.48:303][773]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.38.48:303][773]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.38.48:710][820]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.09.09-12.39.22:198][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.39.22:223][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.09.09-12.39.22:431][620]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1EDCA835C41C70F1465829292BB8A8664.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.39.22:557][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.39.22:576][620]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData8F11A77140116E9A073421A7B4FBA6CE.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.39.22:587][620]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.39.22:587][620]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.39.22:587][620]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.40.20:169][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.40.20:194][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.09.09-12.40.20:398][282]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1064F2F4041D59AF4382F77ABDDE58BB7.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.40.20:537][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.40.20:556][282]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataD3CD03094DE983B5F3241FB2AA0A6F25.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.40.20:567][282]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.40.20:567][282]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.40.20:567][282]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.40.24:851][715]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.40.24:852][715]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-12.40.28:275][ 91]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.09.09-12.40.37:070][ 90]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.40.37:613][150]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.40.38:151][213]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.40.38:622][268]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.09.09-12.40.51:569][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.40.51:595][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.09.09-12.40.51:795][760]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1546F552E4B8B1C099B6C5DBAD9571D55.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.40.51:922][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.40.51:941][760]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataE6C0E33446FCABE43A481394CD7B494A.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.40.51:952][760]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.40.51:952][760]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.40.51:952][760]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.42.47:074][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.42.47:098][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.09.09-12.42.47:305][476]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level18077FE4E4FDF3FD030E9F38439F63CDB.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.42.47:445][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.42.47:464][476]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData86C1AA924977DF2DE04598B1765BDCBE.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.42.47:476][476]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.42.47:476][476]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.42.47:476][476]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.42.52:811][102]Cmd: DELETE
+[2020.09.09-12.42.52:811][102]Cmd: ACTOR DELETE
+[2020.09.09-12.42.52:812][102]LogEditorActor: Deleted Actor: PointLight
+[2020.09.09-12.42.52:838][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.09.09-12.42.52:839][102]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.09.09-12.43.00:941][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.43.00:965][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.09.09-12.43.01:189][ 54]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1AD7126CA486E759C77FE1BB850FB3303.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.43.01:312][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.43.01:331][ 54]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData8A87B5AC481D6772D7224C86496D89C4.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.43.01:342][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.43.01:342][ 54]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.43.01:342][ 54]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.43.11:958][848]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.09.09-12.43.20:590][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.43.20:615][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.09.09-12.43.20:821][859]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1C4C72C074AD1EC85E50F0D97A5A8DF71.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.43.20:948][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.43.20:967][859]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData01D8688B4926B1F263907EAFBD7EBE01.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.43.20:977][859]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.43.20:977][859]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.43.20:977][859]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.43.21:419][895]LogSlate: Took 0.014322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.09-12.43.49:297][122]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-12.43.53:458][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.43.53:483][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.09-12.43.53:687][590]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1D2E6C8674901455FD3ADED8D792E8C1D.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.43.53:813][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.43.53:833][590]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataF15605244BB453B5B5B0FFAD0A90847C.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.43.53:844][590]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.43.53:844][590]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.43.53:844][590]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.43.54:206][629]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.09.09-12.43.59:181][182]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-12.44.01:694][443]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.44.02:301][510]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.09.09-12.44.06:710][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.44.06:735][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.09.09-12.44.06:957][ 15]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level19148C1D94DFC67E0133967AD57583D03.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.44.07:081][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.44.07:100][ 15]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataE6B612AF42C2AAAA1A616AA1B3A726BD.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.44.07:111][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.44.07:111][ 15]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.44.07:111][ 15]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.44.08:210][129]MapCheck: New page: Map Check
+[2020.09.09-12.44.08:221][129]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.09-12.44.08:221][129]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.09-12.44.08:422][129]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=false
+[2020.09.09-12.44.08:502][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.09.09-12.44.08:545][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:569][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.09-12.44.08:569][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.09-12.44.08:569][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:597][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.09-12.44.08:597][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.09-12.44.08:597][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:626][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:654][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:675][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:697][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:713][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:729][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.08:745][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.44.09:797][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.09-12.44.09:797][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.09.09-12.44.09:797][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.09-12.44.09:798][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.09-12.44.09:798][129]TextureStreamingBuild: Display: Compiling optional shaders took 1.294 seconds.
+[2020.09.09-12.44.09:798][129]LogLevel: Display: Export Material TexCoord Scales took 0.000 seconds.
+[2020.09.09-12.44.09:800][129]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2020.09.09-12.44.09:824][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.09.09-12.44.09:826][129]LightingResults: New page: Lighting Build - Sep 9, 2020, 4:44:09 AM
+[2020.09.09-12.44.10:052][129]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.09-12.44.10:256][129]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.09-12.44.10:282][129]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.09-12.44.11:318][129]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.09-12.44.11:318][129]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3624
+[2020.09.09-12.44.15:355][129]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.09-12.44.15:355][129]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.09-12.44.15:355][129]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.09-12.44.15:355][129]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.09-12.44.15:355][129]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.09-12.44.15:355][129]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.09-12.44.15:649][129]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.09.09-12.44.15:649][129]MapCheck: New page: Level1 - Sep 9, 2020, 4:44:15 AM
+[2020.09.09-12.44.15:650][129]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.09.09-12.44.15:650][129]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.947ms to complete.
+[2020.09.09-12.44.15:654][129]LogEditorBuildUtils: Build time 0:07
+[2020.09.09-12.44.16:465][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.09.09-12.44.19:027][138]Job is a success!
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.065s
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:          1: 7.4% covering 14.1% of volume
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:          2: 91.7% covering 2.7% of volume
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.09-12.44.19:576][139]LogVolumetricLightmapImport:          Level1 			 121 bricks 	 100.0% (Persistent Level)
+[2020.09.09-12.44.19:669][139]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.09.09-12.44.19:669][139]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.09.09-12.44.19:669][139]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X64)
+[2020.09.09-12.44.19:669][139]LogStaticLightingSystem: Level1_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.09.09-12.44.19:695][139]Lightmass on TI-PC1: 1.74 sec total, 84 ms importing, 10 ms setup, 144 ms photons, 1.46 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 10.2 sec total, 147 ms processing.
+[2020.09.09-12.44.19:697][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.09.09-12.44.19:731][139]LogStaticLightingSystem: Illumination: 9.61 sec (48 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2020.09.09-12.44.19:732][139]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.09-12.44.19:732][139]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.09.09-12.44.20:365][139]DumpUnbuiltLightIteractions
+[2020.09.09-12.44.20:365][139]Lights with unbuilt interactions: 0
+[2020.09.09-12.44.20:365][139]
+[2020.09.09-12.44.20:365][139]Primitives with unbuilt interactions: 0
+[2020.09.09-12.44.20:446][140]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.09-12.44.20:446][140]MapCheck: New page: Level1 - Sep 9, 2020, 4:44:20 AM
+[2020.09.09-12.44.20:447][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.616ms to complete.
+[2020.09.09-12.50.08:483][341]LogSlate: Window 'Message Log' being destroyed
+[2020.09.09-12.50.08:488][341]LogSlate: Window 'Message Log' being destroyed
+[2020.09.09-12.50.26:038][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.50.26:062][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.09.09-12.50.26:279][393]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level13ABE460B445422530062619BAD20784B.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.50.26:419][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.50.26:445][393]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData2590BCC84608B33D941049BBE7EAF356.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.50.26:457][393]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.50.26:457][393]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.50.26:457][393]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.50.27:820][548]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.50.29:595][757]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.50.30:223][831]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.09.09-12.50.33:455][209]Cmd: TRANSACTION UNDO
+[2020.09.09-12.50.33:455][209]LogEditorTransaction: Undo Move Actors
+[2020.09.09-12.50.37:121][597]Cmd: TRANSACTION UNDO
+[2020.09.09-12.50.37:121][597]LogEditorTransaction: Undo Move Actors
+[2020.09.09-12.50.38:942][760]Cmd: TRANSACTION UNDO
+[2020.09.09-12.50.38:942][760]LogEditorTransaction: Undo Move Actors
+[2020.09.09-12.50.52:572][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.50.52:598][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.09.09-12.50.52:803][329]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1A0D6729E4F1ED929771CF09EF3739360.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.50.52:928][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.50.52:947][329]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataA69C999B46D28F5FF191A8AC038AB089.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.50.52:958][329]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.50.52:958][329]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.50.52:958][329]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.50.58:705][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.50.58:731][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.09.09-12.50.58:937][985]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level17C2A56954758A84660A75E86C5D16019.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.50.59:073][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.50.59:092][985]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataCBE25D584FCD133C795037922F89EE2A.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.50.59:103][985]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.50.59:103][985]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.50.59:103][985]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.51.02:388][373]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.09.09-12.51.02:390][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:395][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:399][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:402][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:406][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:410][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:415][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:419][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:422][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:426][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:430][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:435][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:439][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:443][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:446][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:450][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:455][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:459][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:462][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.02:466][373]LogLandscape: Warning: Shader TShadowDepthVSForGSVertexShadowDepth_OnePassPointLight unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2020.09.09-12.51.19:639][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.51.19:664][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.09.09-12.51.19:857][327]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.51.19:884][327]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level172053BB044C76F432D7D6D8B672DCEFD.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.51.20:021][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.51.20:040][327]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataDA4CC3AB40FD9774B17E95AB65752CAF.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.51.20:051][327]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.51.20:051][327]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.51.20:051][327]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.51.28:056][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.51.28:084][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.09.09-12.51.28:321][251]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level19F8F3B7048D6D887ADC76AB997A150E5.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.51.28:483][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.51.28:505][251]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataD842A2D9435E0EDD1F60689D1AAA55CF.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.51.28:516][251]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.51.28:516][251]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.51.28:516][251]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.51.55:239][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.51.55:264][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.09.09-12.51.55:457][185]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.51.55:484][185]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1CF8C7238427B9D76357867A04741DAD5.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.51.55:614][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.51.55:633][185]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataC203317942B3F28AAC1941AAEBCED420.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.51.55:646][185]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.51.55:646][185]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.51.55:646][185]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.51.58:491][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.51.58:515][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.09.09-12.51.58:705][490]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.51.58:761][490]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level110182B5744F65D23A1A3B0A0B6F00178.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.51.58:939][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.51.58:958][490]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataCBD7FA8C4DAF769277B9BCB6D5A63645.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.51.58:970][490]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.51.58:970][490]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.51.58:970][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.52.03:907][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.52.03:931][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.09.09-12.52.04:120][ 29]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.52.04:147][ 29]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1C1F61CE948B723B3ADEB60B034E8EE74.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.52.04:265][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.52.04:285][ 29]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData29ADF42246418FA49AB0FD8299B5D332.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.52.04:295][ 29]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.52.04:296][ 29]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.52.04:296][ 29]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.52.07:272][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.52.07:296][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.09.09-12.52.07:484][329]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.52.07:511][329]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level11751A7A34AE48CFD1C7AA7A0046849C5.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.52.07:642][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.52.07:660][329]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData38B493E84D6EB7E271A45D9A1FC2742D.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.52.07:671][329]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.52.07:671][329]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.52.07:671][329]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.52.09:908][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.52.09:936][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.09.09-12.52.10:126][562]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.52.10:154][562]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level10689F26F410518BEF82DD2A2771773B8.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.52.10:282][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.52.10:302][562]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData85B9FFE84F74F5FB67951494900DC0DE.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.52.10:313][562]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.52.10:313][562]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.52.10:313][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.52.13:557][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.52.13:581][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.09.09-12.52.13:810][933]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1D3B5FCF740B4C6499CDFB7889CB5E1F2.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.52.13:930][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.52.13:950][933]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData5A4AE7154877025F536735AD314D3BF3.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.52.13:961][933]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.52.13:961][933]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.52.13:961][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.52.14:742][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.52.14:766][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.09.09-12.52.14:983][  9]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level15AF7F4504DB6CB0777DFD89497F196AB.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.52.15:108][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.52.15:128][  9]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataDE9583EB42D99D45CA3BEEB86BCEFF13.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.52.15:139][  9]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.52.15:139][  9]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.52.15:139][  9]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.52.15:533][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.09.09-12.52.44:756][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.52.44:779][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.09-12.52.44:994][409]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1F90FEAF2486C2BB70C16F882687FCF6F.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.52.45:128][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.52.45:147][409]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataAD45488E4483B894FDBF428E30D294AC.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.52.45:160][409]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.52.45:160][409]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.52.45:160][409]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.52.58:807][ 11]Cmd: TRANSACTION UNDO
+[2020.09.09-12.52.58:807][ 11]LogEditorTransaction: Undo Landscape Editing: Paint
+[2020.09.09-12.52.58:822][ 11]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.09.09-12.52.59:759][ 49]Cmd: TRANSACTION UNDO
+[2020.09.09-12.52.59:760][ 49]LogEditorTransaction: Undo Landscape Editing: Paint
+[2020.09.09-12.53.00:459][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.53.00:484][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.09.09-12.53.00:715][105]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level15121C06145DBCC9AD83BC380A74E2E17.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.53.00:832][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.53.00:852][105]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData6B9612AE44E39B3570AEB58538A049D0.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.53.00:864][105]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.53.00:864][105]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.53.00:864][105]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.53.05:198][593]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.09.09-12.53.17:392][ 13]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.09.09-12.53.24:180][785]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.09.09-12.53.36:293][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.53.36:320][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.09.09-12.53.36:525][180]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1C8A8AB9140FC9F78D90DD7AD49DD52E2.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.53.36:645][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.53.36:664][180]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataCEE53FE243A49CFE8C3594A4AABDF03D.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.53.36:676][180]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.53.36:676][180]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.53.36:676][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.53.37:451][271]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.53.43:715][989]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.09.09-12.53.49:144][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.53.49:168][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.09.09-12.53.49:369][618]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1583B10DC49096D4C4BC1409AB1BA38F9.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.53.49:497][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.53.49:516][618]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataDDECF942415AEFAB423C938A98D8DA6E.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.53.49:527][618]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.53.49:527][618]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.53.49:527][618]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.53.53:026][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.53.53:050][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.09-12.53.53:252][996]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level15CA77C514AC307259FD1A49761CE75CF.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.53.53:379][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.53.53:398][996]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataC5827DFD46AAC9CCCB93A1BBD587CE8A.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.53.53:410][996]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.53.53:410][996]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.53.53:410][996]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.53.58:138][532]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.09.09-12.54.00:868][849]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.09.09-12.54.03:776][168]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.09.09-12.54.10:211][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.54.10:236][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.09.09-12.54.10:445][878]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1D148F47D48D5B44F41FEC182BCFACE39.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.54.10:566][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.54.10:585][878]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltDataC90523674419866024B29D9838EBF365.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.54.10:596][878]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.54.10:596][878]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.54.10:596][878]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.54.14:678][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.54.14:703][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.09.09-12.54.14:911][326]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1D492CC5B46C6353409D4C3B1446D46E0.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.54.15:033][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.54.15:052][326]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData055A4A594B3387DF975849BEC5ECE958.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.54.15:064][326]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.54.15:064][326]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.54.15:064][326]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.54.15:320][353]MapCheck: New page: Map Check
+[2020.09.09-12.54.15:335][353]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.09-12.54.15:335][353]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.09-12.54.15:626][353]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=false
+[2020.09.09-12.54.15:663][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.09.09-12.54.15:670][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:685][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.09-12.54.15:685][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.09-12.54.15:685][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:703][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.09-12.54.15:703][353]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.09-12.54.15:703][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:731][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:754][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:769][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:791][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:810][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:829][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.15:852][353]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.09-12.54.16:820][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.09-12.54.16:820][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.09.09-12.54.16:820][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.09.09-12.54.16:820][353]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.09-12.54.16:821][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.09-12.54.16:821][353]TextureStreamingBuild: Display: Compiling optional shaders took 1.157 seconds.
+[2020.09.09-12.54.16:821][353]LogLevel: Display: Export Material TexCoord Scales took 0.000 seconds.
+[2020.09.09-12.54.16:824][353]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.09.09-12.54.16:845][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.09-12.54.16:848][353]LightingResults: New page: Lighting Build - Sep 9, 2020, 4:54:16 AM
+[2020.09.09-12.54.16:853][353]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.09-12.54.16:857][353]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.09-12.54.16:857][353]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.09-12.54.16:858][353]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.09-12.54.16:858][353]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3624
+[2020.09.09-12.54.21:563][353]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.09-12.54.21:563][353]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.09-12.54.21:563][353]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.09-12.54.21:563][353]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.09-12.54.21:563][353]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.09-12.54.21:564][353]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.09-12.54.21:713][353]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.09.09-12.54.21:713][353]MapCheck: New page: Level1 - Sep 9, 2020, 4:54:21 AM
+[2020.09.09-12.54.21:714][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.339ms to complete.
+[2020.09.09-12.54.21:715][353]LogEditorBuildUtils: Build time 0:06
+[2020.09.09-12.54.22:443][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.09.09-12.54.24:462][363]Job is a success!
+[2020.09.09-12.54.25:019][364]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.072s
+[2020.09.09-12.54.25:019][364]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.09-12.54.25:019][364]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.09.09-12.54.25:019][364]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.09-12.54.25:019][364]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2020.09.09-12.54.25:020][364]LogVolumetricLightmapImport:          1: 6.6% covering 14.1% of volume
+[2020.09.09-12.54.25:020][364]LogVolumetricLightmapImport:          2: 92.7% covering 3.1% of volume
+[2020.09.09-12.54.25:020][364]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.09-12.54.25:020][364]LogVolumetricLightmapImport:          Level1 			 137 bricks 	 100.0% (Persistent Level)
+[2020.09.09-12.54.25:048][364]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2020.09.09-12.54.25:048][364]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2020.09.09-12.54.25:048][364]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2020.09.09-12.54.25:048][364]LogStaticLightingSystem: Level1_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.09.09-12.54.25:081][364]Lightmass on TI-PC1: 1.58 sec total, 100 ms importing, 11 ms setup, 140 ms photons, 1.29 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 9.04 sec total, 164 ms processing.
+[2020.09.09-12.54.25:082][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.09.09-12.54.25:143][364]LogStaticLightingSystem: Illumination: 8.07 sec (17 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2020.09.09-12.54.25:143][364]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.09-12.54.25:143][364]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.09.09-12.54.25:564][364]DumpUnbuiltLightIteractions
+[2020.09.09-12.54.25:564][364]Lights with unbuilt interactions: 0
+[2020.09.09-12.54.25:564][364]
+[2020.09.09-12.54.25:565][364]Primitives with unbuilt interactions: 0
+[2020.09.09-12.54.25:647][365]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.09-12.54.25:647][365]MapCheck: New page: Level1 - Sep 9, 2020, 4:54:25 AM
+[2020.09.09-12.54.25:647][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.568ms to complete.
+[2020.09.09-12.55.37:363][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.09-12.55.37:386][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.09.09-12.55.37:597][808]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level12774764B42AAF699FB17E384B1ACA0F2.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1.umap'
+[2020.09.09-12.55.37:732][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.09.09-12.55.37:752][808]LogSavePackage: Moving 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Saved/Level1_BuiltData008F2A9141F5BB7310E80CBD3DD5E94A.tmp' to 'E:/Tilinka Interactive/Myeou/1.1/Myeou/Product/Myeou/Content/Levels/Level1_BuiltData.uasset'
+[2020.09.09-12.55.37:764][808]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.09-12.55.37:764][808]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.09.09-12.55.37:764][808]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.09.09-12.55.38:310][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.09.09-12.55.38:371][869]LogSlate: Window 'Myeou - Unreal Editor' being destroyed
+[2020.09.09-12.55.38:484][870]Cmd: QUIT_EDITOR
+[2020.09.09-12.55.38:484][870]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.09-12.55.38:497][870]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.09-12.55.38:497][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.09-12.55.38:507][870]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.09-12.55.38:518][870]LogExit: Preparing to exit.
+[2020.09.09-12.55.39:024][870]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-12.55.39:024][870]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-12.55.39:024][870]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-12.55.39:029][870]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-12.55.39:048][870]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.09-12.55.39:075][870]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-12.55.39:075][870]LogExit: Editor shut down
+[2020.09.09-12.55.39:076][870]LogExit: Transaction tracking system shut down
+[2020.09.09-12.55.39:272][870]LogExit: Object subsystem successfully closed.
+[2020.09.09-12.55.39:295][870]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (698)
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.09.09-12.55.39:308][870]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.09.09-12.55.39:309][870]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.09.09-12.55.39:310][870]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.09.09-12.55.39:311][870]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.09.09-12.55.40:480][870]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.09.09-12.55.40:480][870]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.09.09-12.55.40:480][870]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.09.09-12.55.40:480][870]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.09.09-12.55.40:480][870]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.09.09-12.55.40:480][870]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.09.09-12.55.40:480][870]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.09.09-12.55.40:481][870]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.09.09-12.55.40:481][870]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.09.09-12.55.40:481][870]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.09.09-12.55.40:481][870]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.09.09-12.55.40:481][870]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.09.09-12.55.40:481][870]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.09.09-12.55.40:481][870]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.09.09-12.55.40:482][870]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.09.09-12.55.40:482][870]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.09.09-12.55.40:482][870]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.09.09-12.55.40:482][870]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.09.09-12.55.40:483][870]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.09.09-12.55.40:483][870]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.09.09-12.55.40:483][870]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.09.09-12.55.40:483][870]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.09.09-12.55.40:483][870]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.09.09-12.55.40:483][870]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.09.09-12.55.40:516][870]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.09.09-12.55.40:516][870]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.09.09-12.55.40:516][870]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.09.09-12.55.40:516][870]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.09.09-12.55.40:517][870]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.09.09-12.55.40:517][870]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.09.09-12.55.40:517][870]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.09.09-12.55.40:518][870]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.09.09-12.55.40:518][870]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.09.09-12.55.40:518][870]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.09.09-12.55.40:518][870]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.09.09-12.55.40:520][870]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.09.09-12.55.40:520][870]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.09.09-12.55.40:521][870]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.09.09-12.55.40:521][870]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.09.09-12.55.40:521][870]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.09.09-12.55.40:521][870]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.09.09-12.55.40:521][870]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.09.09-12.55.40:522][870]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.09.09-12.55.40:522][870]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.09.09-12.55.40:522][870]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.09.09-12.55.40:522][870]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.09.09-12.55.40:523][870]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.09.09-12.55.40:523][870]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.09.09-12.55.40:523][870]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.09.09-12.55.40:523][870]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.09.09-12.55.40:524][870]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.09.09-12.55.40:524][870]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.09.09-12.55.40:524][870]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.09.09-12.55.40:524][870]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.09.09-12.55.40:524][870]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.09.09-12.55.40:524][870]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.09.09-12.55.40:524][870]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.09.09-12.55.40:525][870]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.09.09-12.55.40:525][870]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.09.09-12.55.40:525][870]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.09.09-12.55.40:525][870]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.09.09-12.55.40:536][870]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.09.09-12.55.40:703][870]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.09.09-12.55.40:704][870]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.09.09-12.55.40:705][870]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.09.09-12.55.40:706][870]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.09.09-12.55.40:707][870]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.09.09-12.55.40:707][870]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.09.09-12.55.40:707][870]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.09.09-12.55.40:707][870]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.09.09-12.55.40:707][870]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.09.09-12.55.40:707][870]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.09.09-12.55.40:707][870]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.09.09-12.55.40:708][870]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.09.09-12.55.40:709][870]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.09.09-12.55.40:709][870]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.09.09-12.55.40:709][870]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.09.09-12.55.40:709][870]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.09.09-12.55.40:810][870]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.09.09-12.55.40:911][870]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.09.09-12.55.40:911][870]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.09.09-12.55.40:911][870]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.09.09-12.55.40:911][870]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.09.09-12.55.40:911][870]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.09.09-12.55.40:911][870]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.09.09-12.55.40:911][870]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.09.09-12.55.40:912][870]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.09.09-12.55.40:912][870]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.09.09-12.55.40:912][870]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.09.09-12.55.40:912][870]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.09-12.55.40:912][870]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.09.09-12.55.40:912][870]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.09.09-12.55.40:912][870]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.09.09-12.55.40:913][870]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.09.09-12.55.40:913][870]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.09.09-12.55.40:913][870]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.09.09-12.55.40:913][870]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.09.09-12.55.40:913][870]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.09.09-12.55.40:913][870]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.09.09-12.55.40:915][870]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.09.09-12.55.40:915][870]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.09.09-12.55.40:916][870]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.09.09-12.55.40:916][870]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.09.09-12.55.40:917][870]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.09.09-12.55.40:920][870]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.09.09-12.55.40:920][870]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.09.09-12.55.40:920][870]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.09.09-12.55.40:920][870]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.09.09-12.55.40:920][870]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.09.09-12.55.40:927][870]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.09.09-12.55.40:928][870]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.09.09-12.55.40:929][870]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.09.09-12.55.40:929][870]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.09.09-12.55.40:929][870]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.09.09-12.55.40:929][870]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.09.09-12.55.40:929][870]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.09.09-12.55.40:929][870]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.09.09-12.55.40:929][870]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.09.09-12.55.40:930][870]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.09.09-12.55.40:931][870]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.09.09-12.55.40:931][870]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.09.09-12.55.40:931][870]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.09.09-12.55.40:931][870]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.09.09-12.55.40:931][870]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.09.09-12.55.40:931][870]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.09.09-12.55.40:931][870]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.09.09-12.55.40:932][870]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.09.09-12.55.40:935][870]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.09.09-12.55.40:936][870]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.09.09-12.55.40:936][870]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.09.09-12.55.40:936][870]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.09.09-12.55.40:936][870]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.09.09-12.55.40:936][870]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.09.09-12.55.40:936][870]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.09.09-12.55.40:936][870]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.09.09-12.55.40:937][870]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.09.09-12.55.40:937][870]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.09.09-12.55.40:937][870]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.09.09-12.55.40:937][870]LogDerivedDataCache: Shutdown
+[2020.09.09-12.55.40:937][870]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.09.09-12.55.40:937][870]LogXGEController: Cleaning working directory: C:/Users/Paulo Ochoa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.09-12.55.40:938][870]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.09.09-12.55.40:938][870]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.09.09-12.55.40:938][870]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.09.09-12.55.40:938][870]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.09.09-12.55.40:938][870]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.09.09-12.55.40:939][870]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.09.09-12.55.40:939][870]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.09.09-12.55.40:939][870]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.09.09-12.55.40:939][870]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.09.09-12.55.40:939][870]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.09.09-12.55.40:939][870]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.09.09-12.55.40:940][870]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.09.09-12.55.40:940][870]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.09.09-12.55.40:940][870]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.09.09-12.55.40:940][870]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.09.09-12.55.40:940][870]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.09.09-12.55.40:940][870]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.09.09-12.55.40:940][870]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.09.09-12.55.40:941][870]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.09.09-12.55.40:941][870]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.09.09-12.55.40:941][870]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.09.09-12.55.40:944][870]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.09.09-12.55.40:946][870]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.09.09-12.55.40:946][870]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.09.09-12.55.40:946][870]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.09.09-12.55.40:947][870]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.09.09-12.55.40:947][870]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.09.09-12.55.40:947][870]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.09.09-12.55.40:947][870]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.09.09-12.55.40:947][870]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.09.09-12.55.40:950][870]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.09.09-12.55.40:974][870]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.09.09-12.55.40:974][870]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.09.09-12.55.40:974][870]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.09.09-12.55.40:975][870]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.09.09-12.55.40:976][870]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.09.09-12.55.40:976][870]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.09.09-12.55.40:976][870]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.09-12.55.40:976][870]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.09.09-12.55.40:976][870]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.09.09-12.55.40:976][870]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.09.09-12.55.40:976][870]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.09.09-12.55.40:976][870]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.09.09-12.55.40:977][870]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.09.09-12.55.40:977][870]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.09.09-12.55.40:985][870]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.09.09-12.55.40:985][870]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.09-12.55.40:985][870]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FB28330-4CAB-938D-F4F8-248EF0DF821E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a889285a49e3c94bfbfa1f9e7fccd932%7C472da3b2e28c4a388b292019e8c2bb3e%7C542fed6a-2b03-462c-ba15-72cb39587bd7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.09.09-12.55.41:007][870]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.09.09-12.55.41:009][870]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.09.09-12.55.41:012][870]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.09.09-12.55.41:013][870]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.09.09-12.55.41:013][870]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.09.09-12.55.41:013][870]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.09.09-12.55.41:014][870]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.09.09-12.55.41:014][870]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.09.09-12.55.41:014][870]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.09.09-12.55.41:014][870]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.09.09-12.55.41:014][870]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.09-12.55.41:015][870]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.09-12.55.41:015][870]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.09-12.55.41:015][870]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.09-12.55.41:015][870]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.09-12.55.41:015][870]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.09-12.55.41:015][870]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.09-12.55.41:015][870]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.09-12.55.41:018][870]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.09-12.55.41:020][870]LogD3D11RHI: Shutdown
+[2020.09.09-12.55.41:020][870]LogD3D11RHI: CleanupD3DDevice
+[2020.09.09-12.55.41:037][870]LogExit: Exiting.
+[2020.09.09-12.55.41:138][870]Log file closed, 09/09/20 08:55:41
